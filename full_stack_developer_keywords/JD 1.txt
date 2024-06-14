@@ -1,0 +1,28 @@
+Job description
+Technical skills:
+
+Good knowledge of ReactJS, Redux, TypeScript, and NodeJS
+Thorough understanding of ReactJS and its core principles
+Working knowledge of Web services, Web API, REST services, HTML, CSS3
+Familiarity with more current specifications of EcmaScript
+Knowledge of modern authorization mechanisms, such as JSON Web Token
+Strong proficiency in JavaScript, including DOM manipulation and the JavaScript object model.
+
+Responsibilities:
+
+Maintain and improve existing projects
+Collaborate with the technical team to develop new features and troubleshoot issues
+Lead projects to understand the requirements and distribute work to the technical team
+Follow the project/task timelines and quality.
+Role: IT Consulting - Other
+Industry Type: IT Services & Consulting
+Department: Consulting
+Employment Type: Full Time, Permanent
+Role Category: IT Consulting
+Education
+UG: B.Tech/B.E. in Any Specialization, B.Sc in Computers, BCA in Any Specialization
+PG: MS/M.Sc(Science) in Computers, MCA in Any Specialization, M.Tech in Computers
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+ReduxNode.JsSoftware DevelopmentReact.JsWeb Development
+CSSDOMFull Stack Application DevelopmentJSONHTMLAngularBackend DevelopmentRestSoftware EngineeringTypescriptFrontend DevelopmentUI DevelopmentJavascriptWebpackJest

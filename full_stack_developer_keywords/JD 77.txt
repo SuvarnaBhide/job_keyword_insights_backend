@@ -1,0 +1,32 @@
+About the job
+Looking for a Full Stack developer who has experience in Frontend development using React/nextjs and backend with NestJS & MongoDB. 
+
+ 
+Experience with the AWS would be a plus but not really required, as we are not looking for a jack of all trades. If you have experience with Three.js and Theatre.js, that's also a huge advantage. 
+
+
+
+PLEASE READ THE REQUIREMENT CAREFULLY BELOW. 
+
+The project requires heavy use of React/NextJS and NestJS/MongoDB. You should have worked on this or similar platform/frameworks. You should be available for long term engagement. 
+
+ 
+Note: 
+A) This requires the agreement on NDA, please do not respond if you have issues in signing the NDA.
+B) Should have the availability of a minimum of 40 hrs/week with a minimum of 8 hours every day. (weekdays)
+C) Should provide updates every day. (No exception) 
+
+E) Your deadline culture is fine.
+F) Long-term work over six months is okay for you.
+
+
+Most importantly: 
+
+1. You have a meticulous eye for detail and can painstakingly do Frontend development to get as close to Figma as possible.
+2. We don't have super complicated backend tasks, but you need to think a couple of steps ahead when implementing the backend and eliminate possible gross errors in advance.
+ 
+Conditions:
+
+Work schedule: full-time (8h)
+Remote work
+Full availability during scheduled hours

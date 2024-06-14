@@ -1,0 +1,20 @@
+About the job
+Company Description
+ 
+QBH Soft is a software development company that specializes in providing innovative and creative communication and information solutions. Our services include web design and development, tailor-made applications, ERPs, CRMs, e-commerce solutions, and more. With a global client base, we are known for delivering high-quality work and providing flexible IT services.
+
+ Role Description
+ 
+This is a full-time remote role for an Angular & Nest JS Full Stack Developer. The Full Stack Developer will be responsible for the day-to-day tasks of front-end and back-end web development, software development, JavaScript, and Redux.js. They will collaborate with cross-functional teams to design, develop, and maintain web applications and ensure their smooth functionality.
+
+ Qualifications
+ 
+Front-End Development: Angular, HTML, CSS
+Back-End Web Development: Nest JS, Node.js
+Software Development: Full Stack Development, Database Management
+JavaScript: ES6, TypeScript
+Redux.js: State Management, Middleware
+Experience with RESTful APIs and integration
+Strong problem-solving and debugging skills
+Excellent communication and teamwork abilities
+Minimum 1 yr experience is required

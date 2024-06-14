@@ -1,0 +1,37 @@
+About the job
+This job is sourced from a job board. Learn More
+Key Responsibilities
+
+ Lead the development and implementation of our cross-platform app using the Flutter framework and FlutterFlow, ensuring timely and effective delivery of project milestones.
+ Design and oversee the app's architecture, ensuring scalability, security, and performance to handle increasing user loads and data.
+ Engage in hands-on development, code review, and debugging to maintain high-quality standards and adherence to industry best practices.
+ Collaborate with the founder to define the company's long-term technical roadmap and strategy, contributing to key decisions on technology stack, infrastructure, and product features.
+
+Requirements
+
+ Proven hands-on development experience with expertise in the Flutter framework and FlutterFlow.
+ Strong understanding of mobile app development principles, including UI/UX design, performance optimization, and platform-specific considerations for iOS and Android.
+ Extensive backend development experience with Firebase, including backend services, authentication, and cloud storage.
+ Excellent problem-solving skills and the ability to troubleshoot and debug complex technical issues.
+ Effective communication skills with the ability to articulate technical concepts to technical and non-technical stakeholders.
+ Experience in Agile development methodologies and version control systems like Git.
+
+Compensation
+
+ This is a ground-floor opportunity with immense potential.
+ ESOPs: 1% of the current company - 100 shares (2 year vesting period with 1 year cutoff).
+ Work Location: Kondhwa, Pune. This is an on-site position.
+ Full-time role requiring a high level of dedication and involvement, with an expectation of 9 hours per day, 5 days per week.
+ Flexibility to adapt to startup environments and occasional extended hours may be required.
+
+About Company: We are an early-stage startup revolutionizing the school operations of low-middle-income schools with our highly affordable and usable ERP solution.
+
+Our Long-term 4 Term Vision Is To Create
+
+ Efficient school operations by reducing time to accomplish mundane tasks & helping them get financial aid.
+ Efficient teachers and school leaders by empowering them with data insights and rewarding them for their important work.
+ Efficient students by providing exposure to industry professionals and developing skills & mindset via project-based learning.
+ Efficient parents by bridging the communication gap between themselves, the school, and their children.
+
+Desired Skills and Experience
+Git, Flutter, Firebase

@@ -1,0 +1,20 @@
+ob description
+- Candidate should have desire to learn new technologies.
+- Who can take responsibility & develop creative solution
+- Proficient knowledge in Python language
+
+
+Thanks
+Nexpro247
+-
+Role: Software Development - Other
+Industry Type: IT Services & Consulting
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: Any Graduate
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+Full StackApplication DevelopmentPython Development
+erpCSSFlask OpenPostgresqlApi RestFull Stack Application DevelopmentFullstack DevelopmentPython TestingSelenium WebdriverDjangoHTML5JavascriptDjango FrameworkAPIOdoo DevelopmentPythonFlask

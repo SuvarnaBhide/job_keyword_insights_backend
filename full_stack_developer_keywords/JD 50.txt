@@ -1,0 +1,13 @@
+Job Description
+Ramboll is hiring for the role of Full Stack Developer!
+
+Responsibilities of the Candidate:
+
+Working on exciting engagements across disciplines in structural engineering as well as other markets. Your focus will be developing front-end and back-end architecture for both web and mobile products, designing user interactions based on prototypes and designs.
+Working alongside graphic designers for web design features. You are required to create servers and databases as per product requirements, ensuring cross-platform optimization while ensuring the responsiveness of applications.
+Seeing through a project from conception to finished product meeting both technical and consumer needs. 
+Requirements:
+
+Experience in Windows/desktop application development
+Proficiency with fundamental front-end languages such as HTML, CSS, or any other Front-end (CSS) frameworks like Foundation or Bootstrap, AJAX
+Hands-on experience with React

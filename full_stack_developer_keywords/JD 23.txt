@@ -1,0 +1,31 @@
+Job Description
+Barclays is hiring for the role of Full Stack Engineer!
+
+Responsibilities of the Candidate:
+
+Contribute across the PB Technology function as a member of the CLM team.
+Participate in agile ceremonies providing story points and estimates for tasks.
+Create APIs and mini-apps based on the SpringBoot/React technology stack.
+Create test artefacts using Junit and mocking/stubbing technology.
+Work with DevOps and Automation Test Engineers to implement complete CI/CD pipelines.
+Ensure that all activities and duties are carried out in full compliance with regulatory requirements, Enterprise Wide Risk Management Framework and internal Barclays Policies and Policy Standards.
+Develop and maintain strong relationships with the application support teams to ensure effective delivery of projects into the production environment.
+Requirements:
+
+Minimum Qualification – B.E./B. Tech or equivalent
+In-depth knowledge and extensive experience of Core Java and J2EE design and development work on large-scale banking applications
+Strong web service development experience using REST
+Strong understanding of OO Designing and Programming Techniques and associated concepts, Data Modelling, and Design Patterns
+In-depth knowledge and extensive experience in Spring, Javascript, JDBC and SQL (preferably Oracle)
+Knowledge of UI development with a focus on Angular/React JS, and React Native
+Knowledge of modern front-end technologies, including JavaScript (ES6+), HTML5, and CSS3
+Good working knowledge and hands-on experience with JBoss and Hibernate
+Good logical reasoning, problem-solving and performance-tuning Skills
+Good communication skills
+Skills that will help you in the role:
+Knowledge of Linux or other UNIX-based systems
+Knowledge of Cloud deployments, docker and Kubernetes
+Good working knowledge and hands-on experience with workflow applications and business rules engines
+Exposure to and familiarity with AWS (Amazon Web Services)
+Experience in CI/CD pipelines and related tools.
+Oracle/NoSQL Database experience

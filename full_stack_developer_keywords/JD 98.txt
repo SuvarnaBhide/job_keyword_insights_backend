@@ -1,0 +1,14 @@
+ob Description
+Honeywell is hiring for the position of Full Stack Developer!
+
+Responsibilities of the Candidate:
+
+Perform software engineering tasks to develop product enhancements to Honeywell's market-leading solutions for buildings. Tasks include a range of activities across the full software development lifecycle.
+Agile Development techniques such as Scrum
+Provide responsive design center customer support for software solutions developed
+Work with team members to find best-practice solutions for software and processes
+Coaching and helping develop other team members
+Requirements:
+
+Tertiary Engineering or other equivalent qualification (high credit average)
+2+ years of software engineering experience across analysis, design, coding, testing and support of software

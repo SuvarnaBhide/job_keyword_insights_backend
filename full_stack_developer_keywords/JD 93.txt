@@ -1,0 +1,17 @@
+ob Description
+Shreeji Enterprise is hiring for the role of Full Stack Developer!
+
+Responsibilities of the Candidate:
+
+The management of the entire software development process, from conception to deployment.
+Updating and maintaining the software after deployment.
+Controlling the whole life cycle of the software and application development process.
+Overseeing and directing the evaluation, creation, and implementation of software.
+Directing the automated testing and giving management input as the project is being developed.
+Requirements:
+
+Deep Expertise in building out and scaling .NET/C# applications.
+Experience working with MS Technologies like ASP.Net, MVC, SQL Server, and .Net Core.
+Experience working with Angular5+
+The candidate should know about both working on the Front End and Back End.
+Job Experience: From 2 to 3 Years.

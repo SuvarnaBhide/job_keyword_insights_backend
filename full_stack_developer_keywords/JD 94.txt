@@ -1,0 +1,20 @@
+ob Description
+Findoc is hiring for the role of Full Stack Developer!
+
+Responsibilities of the Candidate:
+
+Designing, developing, and deploying web-based applications, APIs, and microservices for stock market analysis, trading, and portfolio management.
+Developing front-end interfaces to deliver intuitive and responsive user experiences.
+Developing back-end services and systems using languages such as Python and frameworks like Django.
+Integrating third-party APIs, market data feeds, and financial databases to retrieve, process, and visualize real-time and historical market data.
+Creating databases and servers: These systems must be resilient to outages and must function endlessly.
+Ensuring Cross Platform compatibility: Applications must run smoothly on all operating systems like Windows, MacOS, and Linux.
+Implementing security measures and best practices to ensure the integrity, confidentiality, and availability of sensitive financial information.
+Requirements:
+
+Bachelor's degree in Computer Science, Software Engineering, or related field (or equivalent experience)
+Proven experience of 2-4 years as a Full Stack Developer, preferably in the financial services or stock market domain
+Proficiency in front-end development technologies such as HTML, CSS, JavaScript, and modern frameworks/libraries
+Strong understanding of back-end development concepts, including RESTful APIs, server-side programming, and database design (SQL and/or NoSQL)
+Excellent problem-solving skills, attention to detail, and ability to thrive in a fast-paced, collaborative environment
+Strong communication skills and ability to effectively articulate technical concepts to non-technical stakeholders

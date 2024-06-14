@@ -1,0 +1,29 @@
+About the job
+T3 Stack Developer Remote 
+
+ 
+About The Company:
+
+Web 3.0 is the next wave of technology breakthroughs to revolutionize human society, with key pillars being decentralized finance (DeFi), NFTs, Metaverse, and decentralized autonomous organization (DAO). The space is growing at breakneck speed with enormous growth potential in years to come. M0 is a blockchain and web3 technology company exploring big ideas in identity, ownership, utility, DeFi, and interoperability to push the crypto, NFT, and Metaverse space forward. We are looking for the best builders, hackers, innovators, entrepreneurs, visionaries & creatives to come design the future together. This isn't a typical job at M0 you will be challenged to bring out the best version of yourself in bringing to life the creative renaissance of Web3. We are seeking driven individuals with a hunger for product ownership and impact and the potential for asymmetrical upside in doing so. If you don't know about Web3 yet - it's all good, you're about to define it.
+ 
+Requirements:
+
+Extensive experience with system design, Backend, and microservice architecture and design patterns for building full-stack scalable and responsive web applications.
+Experience in building backends using Nest.js, and Microservices framework.
+Experience working with Typescript and strong proficiency in frontend development using HTML, Tailwind, and JavaScript.
+Experience with Supabase, Next.js, Prisma, TRPC, LLM's.
+Strong NodeJS knowledge and understanding of the ecosystems.
+Familiarity with server-side rendering and routing in Next.js, and ability to leverage these features effectively.
+Experience with testing frameworks and tools for frontend and backend applications.
+Proficiency in version control systems like Git.
+Excellent problem-solving and debugging skills.
+Strong communication and collaboration skills to work effectively within a team environment.
+Experience with Redux.js, LLMS, and Vector DB is a plus.
+ 
+Responsibilities :
+
+Building progressive webapps using Next.js.
+Creating and integrating backend built using MongoDB, Prisma, Supa base, Trpc, and LLMS to progressive web apps.
+Write code according to our best practices and define new best practices.
+Write unit tests and conduct end-to-end testing to ensure the quality and stability of the codebase.
+Continuously improve code quality, maintainability, and scalability of the codebase.

@@ -1,0 +1,30 @@
+ob Description
+Digitech Sols is hiring for the role of Full Stack Developer!
+
+Responsibilities of the Candidate:
+
+Develop and maintain front-end applications using AngularJS and Ionic Framework
+Design and implement RESTful APIs using Java Spring Boot
+Collaborate with cross-functional teams to define, design, and deliver new features
+Build and optimize data storage solutions using the MongoDB
+Implement and maintain security best practices in both front-end and back-end development
+Write well-designed, efficient, and testable code following coding standards
+Perform code reviews and provide constructive feedback to team members
+Ensure the scalability, performance, and responsiveness of applications
+Troubleshoot, debug, and optimize application components
+Requirements:
+
+Proven experience as a Full Stack Developer with expertise in AngularJS and Ionic Framework for front-end development
+Strong proficiency in Java Spring Boot for building RESTful APIs
+Experience with Mongo database
+Familiarity with HTML, CSS, and JavaScript
+Solid understanding of RESTful API design principles
+Knowledge of authentication and authorization mechanisms
+Experience with version control systems (e.g., Git)
+Strong problem-solving skills and attention to detail
+Excellent communication and collaboration abilities
+Comfortable working in a remote team environment
+Perks:
+
+Medical Insurance
+Flexible Hours

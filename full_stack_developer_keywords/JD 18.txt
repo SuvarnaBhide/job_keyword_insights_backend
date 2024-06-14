@@ -1,0 +1,24 @@
+Job description
+B.Tech (CSE) or MCA graduates
+Skills Manadatory: Java, Database, Good understanding of OOPS
+Preferred: SQL skills, Javascript, HTML, React, Angular
+Preferred: 3-6 months of training/academic project work in any of the skills mentioned
+Good Analytical and Problem solving skills
+Good communication skills
+
+Role/Job Description
+
+Industry: IT Services Consulting
+Functional Area: IT Software - Offshoare Application Development, QA, and DevOps
+Role: Developer, Quality Analyst (QA)
+
+Role: Full Stack Developer
+Industry Type: IT Services & Consulting
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: B.Tech/B.E. in Any Specialization, Any Graduate
+PG: MCA in Computers
+Key Skills
+IT servicesTrainingAnalyticalQuality AnalystConsultingJavascriptDatabaseHTMLApplication developmentSQL

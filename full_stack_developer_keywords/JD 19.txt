@@ -1,0 +1,36 @@
+Job description
+Work with development teams and product managers to ideate software solutions
+Where applicable, design client-side and server-side architecture and build the front-end of applications through appealing visual design
+Provide technical and developmental mentorship to subordinates
+Partnering with Product and Content Teams, gather business requirements and design technical solutions to meet those needs
+Liaise with, and provide written feedback to technical and business constituents as necessary
+Set coding standards and help drive the strategic technical direction of our engineering efforts; develop systems to meet or exceed business KPIs
+Understand and modify existing systems as business requirements and consumer behaviors change
+Develop system test criteria and participate in systems testing
+Respond to, isolate and resolve programming problems
+Provide after hours and weekend support for production systems when needed
+Required Skills/Knowledge:
+
+Proven experience as a Full Stack Developer or similar role
+Experience in building web applications and mobile applications
+3-4 Years experience in Python /node and angular application
+Experience working in Linux based operating system
+Experience with Git (Source Control solution)
+Experience with Data Structures and Algorithms
+Knowledge of multiple front-end languages and libraries (e.g. HTML/ CSS, JavaScript, JSON, XML)
+Knowledge of multiple back-end languages (e.g. PHP, Node, Python) and JavaScript frameworks (e.g. Angular, React, Node.js)
+Familiarity with databases (e.g. MySQL, MongoDB), web servers (e.g. Apache) and UI/UX design
+Strong knowledge of web server technologies (i.e. Apache)
+Strong knowledge of Amazon Web Services and Microsoft Azure inclusive of Lambda, S3 and other micro-services
+Knowledge of Content Delivery Networks and CI/CD stack
+Excellent written and verbal skills
+Role: Technical Architect
+Industry Type: Recruitment / Staffing
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: B.Tech/B.E. in Any Specialization, BCA in Computers, B.Sc in Any Specialization
+PG: MCA in Computers, MS/M.Sc(Science) in Any Specialization
+Key Skills
+LinuxCodingXMLMySQLPHPData structuresHTMLJSONApachePython

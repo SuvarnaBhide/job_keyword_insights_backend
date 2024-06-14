@@ -1,0 +1,44 @@
+Job description
+
+We are looking for an experienced Full Stack Developer - JAVA / Angular to join our development team with having excellent programming skills and a passion for developing applications.
+
+Responsibilities and Duties
+Communicate with the client over email and/or calls
+Requirement gathering and analyzing
+Development of planned tasks
+
+
+Create and/or Review Documentation
+Participate in the entire application lifecycle, focusing on coding and debugging
+Write clean code to develop functional web applications
+Troubleshoot and debug applications
+Write unit test case.
+Collaborate with Front-end developers to integrate user-facing elements with server-side logic
+
+
+Gather and address technical and design requirements
+To do Research Development of new technologies
+Provide training and support to internal teams/peer
+
+Required Experience, Skills and Qualifications
+Knowledge and Hands of experience in Java is mandatory should have worked on frameworks(like Spring), database layers (like iBatis, Hibernate, etc.)
+Web technologies experience on AngularJS/ReactJS, Bootstrap/Material design, HTML5, CSS3,JavaScript
+In-depth understanding of the entire application development process (design, development, and deployment)
+Excellent analytical and problem-solving capabilities
+
+Benefits
+An interesting, diversified and challenging working environment in a highly motivated team
+High responsibility right from the beginning with the personal and professional development
+Continuous innovation and working with the newest technologies
+Flexible working hours
+
+Role: Full Stack Developer
+Industry Type: Recruitment / Staffing
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: Any Graduate
+PG: Any Postgraduate
+Key Skills
+Process designHibernateFront endCodingAnalyticalJavascriptDesign developmentApplication developmentiBATISCSS3

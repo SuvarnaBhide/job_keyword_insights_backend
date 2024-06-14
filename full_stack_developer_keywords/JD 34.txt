@@ -1,0 +1,28 @@
+Job Description
+Hero MotoCorp Limited is hiring for the role of Full Stack Developer!
+
+Responsibilities of the Candidate:
+
+Work with vendors and product managers to ideate software solutions.
+Design client-side and server-side architecture.
+Build the front end of applications through appealing visual design.
+Develop and manage well-functioning databases and applications.
+Write effective restful APIs.
+Test software to ensure responsiveness and efficiency.
+Troubleshoot, debug and upgrade software.
+Create security and data protection settings.
+Write technical documentation.
+Requirements:
+
+BE/B.Tech/M.Tech
+2-5 years of experience in related domainStrong knowledge and development experience in React, Node, Bootstrap, CSS, HTML 5 - MUST
+Familiarity with databases (e.g. MySQL, MongoDB), web servers (e.g. Apache) and UI/UX design principles
+Good understanding of the latest Architecture and Development Standards and Guidelines
+Hands-on AWS experience, helping organizations build scalable and resilient architecture
+Experience in using node.js frameworks (such as express, sand StrongLoop)
+Develop using microservices architecture style and asynchronous using loopback
+Experience in PostgreSQL, Redis, Amazon SQS, Kafka, Amazon SNS, Dynamodb and Firebase
+Strategic Thinker: Ability to translate details into bigger picture implications driving the business forward, challenging the status quo. Aligns the right resources to the task at hand; foresees and plans around obstacles
+Talent Management: Has a passion for building great teams - proven ability to develop, motivate and champion talent beyond own organization
+Innovate for Growth: Technology Evangelist. Always thinking about how to make improvements and able to implement changes that map to business strategy. Stays abreast of cutting-edge technology trends
+Lead & Adapt to Change: Thrives in a changing, dynamic environment and can drive operational efficiencies that map to changing needs

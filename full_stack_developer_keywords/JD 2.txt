@@ -1,0 +1,39 @@
+Job description
+
+Project Role :Application Developer
+
+
+Project Role Description :Design, build and configure applications to meet business process and application requirements.
+Must have skills :Java Full Stack Development, Spring Boot
+
+Good to have skills :NA
+Minimum 0-2 year(s) of experience is required
+
+Educational Qualification :15 years of fulltime education
+Summary:As an Application Developer, you will be responsible for designing, building, and configuring applications to meet business process and application requirements using Java Full Stack Development and Spring Boot. Your typical day will involve working on application development and configuration, collaborating with cross-functional teams, and ensuring the quality of the application meets the business requirements.
+Roles & Responsibilities:
+Design, develop, and maintain high-quality applications using Java Full Stack Development and Spring Boot.
+Collaborate with cross-functional teams to identify and prioritize application requirements and ensure the quality of the application meets the business requirements.
+Configure and customize applications to meet business process and application requirements.
+Ensure the application is scalable, maintainable, and meets the performance requirements.
+Troubleshoot and debug issues in the application and provide timely resolutions. Professional & Technical Skills:
+Must To Have Skills:Proficiency in Java Full Stack Development and Spring Boot.
+Good To Have Skills:Experience with Agile methodologies and DevOps practices.
+Strong understanding of software development life cycle (SDLC) and software engineering principles.
+Experience with front-end technologies such as HTML, CSS, and JavaScript.
+Experience with back-end technologies such as Spring Framework, Hibernate, and RESTful web services. Additional Information:
+The candidate should have a minimum of 0-2 years of experience in Java Full Stack Development and Spring Boot.
+The ideal candidate will possess a strong educational background in computer science or a related field, along with a proven track record of delivering impactful solutions.
+This position is based at our Chennai office.Qualification15 years of fulltime education
+Role: Full Stack Developer
+Industry Type: IT Services & Consulting
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: B.Tech/B.E.
+PG: Any Postgraduate
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+spring bootsoftware development life cyclejavafull stacksoftware engineering
+restcssweb serviceshibernatejavascriptjqueryapplication developmentspringdevopstroubleshootinghtmlmysqlagilesdlcagile methodology

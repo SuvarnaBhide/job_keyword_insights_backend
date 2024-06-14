@@ -1,0 +1,47 @@
+Job description
+Our philosophy - Innovation is the lifeblood of modern civilization. It is only possible if bright minds come together in a safe environment and think about solving problems for others. As an organization, we believe in facilitating technology innovation for society, while providing our team members with the freedom to stamp their identity. We believe knowledge drives innovation, innovation drives productivity, and productivity drives economic growth.
+
+
+Company - Our company's purpose is to enable artists through live streaming.17LIVE services allow any user to connect with the world anytime, anywhere. The team helps serve that personalized recommendations by making it easy for people to find and join the best streams as they unfold. This team owns machine learning-enabled features for end-to-end delivery on the app and to the internal operations team.
+
+
+Job - There are no specific technology/Language requirements. But to date, most of our projects have been designed to be highly scalable and accurate. Some of our favorite solutions include:
+
+Develop and maintain small to enterprise-scale applications in a range of technologies.
+Good Knowledge in JavaScript, Typescript, HTML, CSS/LESS/SCSS
+Fluency in Python/Java,PostgreSQL / MySQL,Data Structure, algorithms and OOP concepts
+Experience with REST APIs, Linux systems & creating analytical dashboards
+
+Impact -The development done by you will directly impact our more than 60 million users worldwide. You will dramatically improve and expand our set of products while simultaneously supporting a massive increase in the capacity of our systems and build Strong OOPs fundamentals, where you can do impactful work with more than 1000+ people working together and impacting millions of lives through meaningful work, and generating high-level growth revenue.
+
+
+Fit- You are doing this not just for yourself and your family, but for a lot of people who are dependent on you for their lives. We are not hiring just hands but complete human beings with their emotions, humor, creativity, networking intent, and integrity. These things matter more to us than deep domain-specific knowledge or highly developed skills in narrow areas.
+
+
+Perks - We do not believe that we have to make any compromises to follow our hearts. We take pride in providing world-class facilities to our team members so that they solely focus on work. Here is a list of some of those facilities.
+
+Best-in-class salary as benchmarked with the market. There is no limit to our yearly hike %. Our best performers receive up to 100% hikes.
+We dont track vacation days and working hours. The company only measures what people get done; if employees do their work, It doesn't matter when or for how long they're in the office.
+Flat hierarchy. No ass-kissing. Equal growth opportunities for everyone.
+To make your job more fruitful than previous, the company also offers a professional development opportunity that can make this seemingly fantastical path a reality.
+We offer incredible perks focused on all employees single, parents and parents to be, everyone can get unlimited paid time off to bond with family members.
+In addition to standard health insurance benefits, we take care of its employees and their family members' health.
+We encourage team members to bring their hidden talent in front of everyone. We highly encourage people to set personal goals and help them achieve them
+Like what you read? Dont think further. Just apply and enjoy the most relaxed and fun-filled interview process.
+
+
+All our jobs are open worldwide. Turings.xyz is our recruitment and operations partner in India. Visit www.turings.xyz for more details.
+
+
+Role: Full Stack Developer
+Industry Type: IT Services & Consulting
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: B.Tech/B.E. in Computers
+PG: M.Tech in Computers
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+java
+CSSPostgresqlData StructuresOOPSHTMLSQLRest Api DesignAlgorithmsLinuxTypescriptJavascriptPython

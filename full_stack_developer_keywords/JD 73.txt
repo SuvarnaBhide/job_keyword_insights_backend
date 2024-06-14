@@ -1,0 +1,69 @@
+About the job
+Overview
+
+We are seeking a Software Developer - Salesforce to join our growing team!
+
+About Us
+
+Community Brands provides a connected network of solutions that enable mission-driven organizations to thrive. Our software powers non-profits, associations, and K-12 schools to engage the people they serve through programs and events, raise funds to enable their mission, and manage their financials and operations. Our family of brands are bound by a common purpose to serve the organizations that make our communities a better place to live. With over 1,600 employees in the US, Canada, UK, Australia, India, and the Philippines, we know that our success is driven entirely by the people of Community Brands. Through professional opportunity, we strive to give each person a clear path to success and personal growth. We embrace diversity and believe that our differences in experience and perspective are the key to our sustained success.
+
+Responsibilities & Qualifications
+
+ Position Summary 
+
+We are looking for talented Salesforce Developer to work within the support team, ensuring that we deliver well tested software that meets the business requirements of our organization and its customers. This position will be in our Pune Office.
+
+About The Product
+
+Nimble: Nimble AMS helps you manage every aspect of your association while leveraging the power of the #1 CRM platform, Salesforce. From creating and managing a stellar membership experience to processing orders, managing events, and analysing your organization’s data, Nimble AMS helps your entire team get the job done. For more information, visit https://www.communitybrands.com/products/nimble-ams/.
+
+ A Day in the Life 
+
+
+ Must be able to comprehend the client’s requirements/problems quickly and give feasible technical solutions in a timely manner. 
+ Ability to handle clients professionally during all interfaces. 
+ Ability to work with a geographically dispersed organization and customers. 
+ Innovative thinker who is positive, proactive, and readily embraces change. 
+ Team player and quick learner with desire to learn new technology. 
+
+
+ We would love to chat if you have... 
+
+
+ Knowledge in Salesforce.com/ Force.com platform 
+ Min. 1 to 3 years of experience. Understanding of Salesforce.com platform w.r.t Platform administration, Development, Data Management, Integration, Security and Deployment, Salesforce Lightning Web Component. 
+ Good Analytical skills and issue debugging (troubleshooting skills). 
+ Proficient in Salesforce user setup, permissions, role hierarchy, profile management, and user creation, reports and Dashboard management, Data load. 
+ Strong understanding of Salesforce best practices and functionality, ensuring the platforms effective use. 
+ Experience in working with Salesforce Lightning UI is a plus. 
+ Have knowledge in developing APEX classes, Triggers, Visual force pages, Controllers, writing Workflows, REST API Integration. 
+ Have knowledge in Creating Roles, Profiles, Page Layouts, Workflow rules, and Approval Processes. 
+ Conforming to Software Development Life Cycle processes and Force.com configuration best practices during implementation 
+ Custom development experience in Force.com (Apex, visual force), Batch Apex and Schedule apex. 
+ Must have knowledge on Git, Bitbucket. 
+ Good Communication skills - Verbal and Written. Must be able to effectively communicate & work with fellow team members and Clients to coordinate & meet deliverable. 
+ Bachelor’s or master’s degree in computer science or relevant Engineering degree. 
+ Certifications: Nice to have Salesforce.com Admin Certified and App Builder Certified. 
+ Experience in support activities – Added Advantage 
+
+
+ Total Rewards 
+
+Why work here?
+
+Good People, Doing Good Things: Employees at Community Brands are techies and volunteers who strive to make the Company a great place to work. We dream big and are motivated to help our customers use the technology we create to improve the world around us.
+
+
+ Planned Paid Time Off 
+ Purpose-Driven Culture 
+ Work-Life Balance 
+ Passionate About Community Involvement 
+ Company Paid Parental Leave 
+
+
+All persons hired will be required to:
+
+
+ Verify their identity, 
+ Verify they are eligible to work (without sponsorship) in the country they are to be employed in, and 
+ Complete any required employment eligibility verification form upon hire.

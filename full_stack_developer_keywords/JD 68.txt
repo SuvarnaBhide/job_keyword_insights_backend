@@ -1,0 +1,27 @@
+About the job
+Join our team as a React.js Developer and take your skills to the next level!
+
+Principal Accountability
+
+ Collaborate with the development team to design and implement user interface ideas
+ Review application requirements and interface designs
+ Develop highly responsive user interface components using React concepts
+ Write application interface codes using JavaScript and React.js workflows
+ Troubleshoot and debug application codes
+ Develop and implement front-end architecture to support user interface concepts
+ Monitor and improve front-end performance
+ Document application changes and develop updates
+
+Candidate Profile
+
+ Bachelor's degree in Computer Science, Information Technology, or similar field
+ 1+ years of experience as a React.js Developer
+ React Native experience a plus
+ In-depth knowledge of JavaScript, Typescript, CSS, HTML, and front-end languages
+ Familiarity with REACT tools including React.js, Webpack, Enzyme, Redux, and Flux
+ Experience with user interface design and performance testing frameworks like Mocha and Jest
+ Excellent troubleshooting and project management skills
+
+If you're a skilled React.js Developer looking for a new challenge, apply now!
+
+Skills: react.js,javascript,debugging code,testing services,enzyme activity,redux,user interface design,react,design

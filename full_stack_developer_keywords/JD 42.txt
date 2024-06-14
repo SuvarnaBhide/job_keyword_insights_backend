@@ -1,0 +1,18 @@
+Job Description
+Agnito is hiring for the role of Full-Stack Developer!
+
+Responsibilities of the Candidate:
+
+Discussing projects with the development team.
+Designing and building web applications using Laravel.
+Troubleshooting issues.
+Working on front-end and back-end projects along with developers.
+Testing functionality for users and integrating them.
+Presenting work in meetings with clients and management.
+Requirements:
+
+Working experience with PHP.
+Good understanding of application design using Laravel.
+Knowledge of database design and querying using SQL.
+Proficient in HTML and JavaScript.
+Practical experience using the MVC architecture.

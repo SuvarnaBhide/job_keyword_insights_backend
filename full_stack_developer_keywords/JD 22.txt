@@ -1,0 +1,23 @@
+Job Description
+Chalanas Hiring for the role of Full Stack Developer!
+
+Responsibilities of the Candidate:
+
+Develop and maintain web and mobile applications using React Native for front-end development.
+Design and implement server-side logic using Node.js.
+Collaborate with cross-functional teams to define, design, and ship new features.
+Optimize applications for maximum speed, scalability, and efficiency.
+Ensure the technical feasibility of UI/UX designs.
+Troubleshoot and debug issues as they arise.
+Stay up-to-date with emerging technologies and industry trends.
+Requirements:
+
+Proven experience as a Full Stack Developer or similar role.
+Proficiency in React Native, Node.js, and JavaScript.
+Strong understanding of web and mobile development best practices.
+Familiarity with RESTful APIs and GraphQL.
+Experience with database systems such as MongoDB, MySQL, or PostgreSQL.
+Knowledge of version control systems (e.g., Git).
+Excellent communication and collaboration skills.
+Ability to work independently and as part of a team.
+Attention to detail and a passion for delivering high-quality software solutions.

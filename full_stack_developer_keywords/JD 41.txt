@@ -1,0 +1,40 @@
+Job Description
+AvenDATA GmbH is hiring for the role of Full Stack Developer (.Net and Angular)!
+
+Job Purpose:
+
+You will help AvenDATA evolve with your valuable contribution and take it to the next level.
+You can find more information about us (AvenDATA) on our website, or our social networks.
+Responsibilities of the Candidate:
+
+Transform system needs into custom designs and agile development.
+Craft top-notch digital experiences.
+Create user-friendly interfaces to build strong back-end systems, making a lasting impact on the tech scene.
+Stay updated with the latest tools and tech to excel.
+Meet your passionate team, working together to deliver top-level technology to our clients.
+Contribute to a dynamic work environment where ideas flourish, and innovation thrive.
+Requirements:
+
+Proficiency in AngularJS, .NET Core, C#, Entity Framework Core and MySQL is a must Candidates should have a solid understanding of these technologies and be able to work efficiently with them
+Strong experience in developing and maintaining web applications and APIs using the specified technology stack
+A good understanding of front-end technologies such as HTML, CSS, and JavaScript is required for seamless collaboration with UI/UX designers
+Familiarity with database design principles and experience with relational databases (e.g., MySQL)
+Prior experience with version control systems (e.g., Git) and agile development methodologies will be highly advantageous
+Excellent problem-solving skills and the ability to troubleshoot and debug complex software issues effectively
+Strong communication and team collaboration skills, as the Full Stack Developer will be working closely with other team members and stakeholders
+An analytical mind
+Education Level:
+Degree in Computer Science or relevant field
+Proven experience as a Full Stack Developer or similar role
+Other Relevant Skills:
+You have more than 2 years of experience with the technologies
+You know some or most of the technologies we use (or you are open to learning them)
+You are a fast learner and can think out-of-the-box
+You have creative visualization, critical thinking, and deductive and pragmatic reasoning
+You are familiar with concepts of TDD, Functional Programming and Design Patterns
+You like teamwork and are passionate about your work and code quality
+Benefits:
+
+Professional working environment in an international company
+Varied and challenging role
+Competitive and performance-based remuneration

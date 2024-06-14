@@ -1,0 +1,44 @@
+ob description
+A Full Stack Engineer with 0-5 years of experience is responsible for developing and maintaining both the front-end and back-end components of a web application
+They must be proficient in front-end technologies such as HTML, CSS, JavaScript, and modern JavaScript frameworks such as React, Angular, or Vue.js
+They must also have a solid understanding of back-end technologies such as Node.js, Python, Java, or serverless architectures using AWS Lambda or Google Cloud Functions
+In addition to the traditional technologies, a Full Stack Engineer with 0-5 years of experience may also work with newer and emerging technologies such as GraphQL, REST APIs, microservices, and cloud computing platforms like AWS or GCP
+They should have a solid understanding of database systems and be familiar with data storage solutions such as MySQL, MongoDB, or Cassandra
+The role requires the ability to design and implement scalable, efficient, and secure web applications and systems
+They must be familiar with version control systems like Git and have good problem-solving skills
+They should be able to work independently and in a team environment, collaborating with designers, project managers, and other engineers to ensure that the application meets the client's requirements and is delivered on time
+Responsibilities
+Designing, building, and maintaining the front-end and back-end components of web applications.
+Writing clean, maintainable, and scalable code using modern web development technologies and frameworks.
+Implementing and integrating APIs, microservices, and other back-end components.
+Ensuring the application is responsive, user-friendly, and accessible across different devices and platforms.
+Developing and integrating data storage solutions, such as databases and cloud storage services.
+Collaborating with designers, project managers, and other team members to gather requirements and ensure project deliverables are met.
+Debugging and troubleshooting issues and bugs in the application.
+Keeping up-to-date with the latest web development trends, technologies, and best practices.
+Participating in code reviews and providing constructive feedback to other team members.
+Ensuring the application is secure, with proper access controls, encryption, and other security measures in place.
+The responsibilities of a Full Stack Engineer with 0-5 years of experience may vary depending on the size and scope of the project and the needs of the client or company they are working for.
+
+Requirement
+Bachelor's degree in Computer Science, Information Technology, or a related field.
+Strong knowledge of front-end technologies such as HTML, CSS, JavaScript, and modern JavaScript frameworks such as React, Angular, or Vue.js.
+Experience with back-end technologies such as Node.js, Python, Java, or serverless architectures using AWS Lambda or Google Cloud Functions.
+Familiarity with database systems and data storage solutions, such as MySQL, MongoDB, or Cassandra.
+Understanding of RESTful APIs, GraphQL, and microservices architecture.
+Familiarity with cloud computing platforms like AWS or GCP.
+Experience with version control systems like Git.
+Good problem-solving skills and the ability to troubleshoot and debug issues.
+Strong written and verbal communication skills.
+Ability to work independently and in a team environment.
+Attention to detail and ability to deliver high-quality work on time.
+Role: Full Stack Developer
+Industry Type: IT Services & Consulting
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: Any Graduate
+PG: Any Postgraduate
+Key Skills
+cssweb applicationvue.jsbootstrapjquerymicroservicesspringreact.jsgitjavagcpwritinghtmlmysqlapigraphqlmongodbcommunication skillsrestpythonversion controlaws lambdajavascriptangularnode.jssystemcassandrafull stackaws

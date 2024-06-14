@@ -1,0 +1,43 @@
+About the job
+Are you passionate about building scalable web applications that deliver exceptional user experiences? Do you thrive in a fast-paced environment where you can work across the entire technology stack, from front-end to back-end? If so, we have an exciting opportunity for you!
+ 
+ We are seeking a talented Full-Stack Web Developer to join our team in developing & supporting multiple SaaS-based applications.
+ 
+ STAND 8 provides end to end IT solutions to enterprise partners across the United States and with offices in LA, Atlanta, New York, Raleigh, and more.
+ 
+ Key Responsibilities
+Work with Next.js, React and React Flow to create dynamic, responsive UI components.
+Implement state management using Redux and Redux Toolkit.
+Manage application state and optimize performance.
+Collaborate with the team to connect the application with external services like QuickBase, Azure, and SendGrid.
+Write robust, clean, and documented code; maintain code quality and participate in code reviews.
+Develop and execute unit and integration tests using tools like Jest and Cypress.
+Technical Requirements
+
+Strong proficiency in JavaScript and TypeScript.
+Extensive experience with Next.js, React, and Redux.
+Familiarity with Material UI (MUI) for UI components.
+Experience in backend development using NestJS.
+Knowledge of JWT for authentication and authorization.
+Experience with Azure Blob Storage and other Azure services.
+Familiarity with QuickBase and SendGrid integrations.
+Proficient in using Git for version control and collaboration.
+Experience with Prisma for database management. Raw SQL a huge plus.
+Strong understanding of modern front-end build pipelines and tools.
+Ability to write effective unit, integration, and end-to-end tests.
+Desirable Skills
+
+Experience with database design and management.
+Knowledge of CI/CD pipelines and deployment strategies.
+Familiarity with containerization and cloud services.
+Strong problem-solving skills and ability to work in a fast-paced environment.
+Excellent communication and teamwork skills.Project Overview:
+We are seeking a talented Full-Stack Web Developer to join our team in developing & supporting multiple SaaS-based applications.
+Key Responsibilities
+
+Work with Next.js, React and React Flow to create dynamic, responsive UI components.
+Implement state management using Redux and Redux Toolkit.
+Manage application state and optimize performance.
+Collaborate with the team to connect the application with external services like QuickBase, Azure, and SendGrid.
+Write robust, clean, and documented code; maintain code quality and participate in code reviews.
+Develop and execute unit and integration tests using tools like Jest and Cypress.

@@ -1,0 +1,43 @@
+About the job
+Job Summary:
+We are seeking a highly skilled Full Stack Developer with a strong background in Java for backend development and expertise in React for the frontend. The ideal candidate will be responsible for developing and designing front-end web architecture, ensuring the responsiveness of applications, and collaborating with graphic designers on web design features.
+
+
+Key Responsibilities:
+1. Front-End Development
+Develop user-facing features using React.js.
+Build reusable components and front-end libraries for future use.
+Translate designs and wireframes into high-quality code.
+Optimize components for maximum performance across a vast array of web-capable devices and browsers.
+2. Back-End Development
+Design and develop robust and scalable back-end services using Java.
+Integrate front-end UI with the constructed API.
+Create database schemas that represent and support business processes.
+Implement security and data protection measures.
+3. Collaboration and Support
+Work with cross-functional teams to deliver high-quality products.
+Provide technical support for developed applications.
+Continuously improve software engineering practices.
+Collaborate with stakeholders on feature requirements and prioritization.
+
+
+Qualifications:
+Bachelor’s degree in computer science, Information Technology, or a related field.
+Proficient understanding of web markup, including HTML5 and CSS3.
+Strong proficiency in JavaScript, including DOM manipulation and the JavaScript object model.
+Thorough understanding of React.js and its core principles.
+Experience with popular React.js workflows (such as Flux or Redux).
+Familiarity with newer specifications of ECMAScript.
+Experience with data structure libraries (e.g., Immutable.js).
+Knowledge of Java and frameworks such as Spring Boot and Microservices.
+Familiarity with RESTful APIs.
+Knowledge of modern authorization mechanisms, such as JSON Web Token.
+Familiarity with modern front-end build pipelines and tools.
+Ability to understand business requirements and translate them into technical requirements.
+A knack for benchmarking and optimization.
+
+
+Additional Skills (Preferred):
+Experience with cloud services (AWS, Azure, GCP).
+Understanding of containerization and orchestration technologies (Docker, Kubernetes).
+Familiarity with code versioning tools such as Git.

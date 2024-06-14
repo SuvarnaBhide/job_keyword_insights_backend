@@ -1,0 +1,88 @@
+Job description
+Role & responsibilities
+
+
+Work with development teams and product managers to ideate software solutions
+
+Design client-side and server-side architecture
+
+Build the front-end of applications through appealing visual design
+
+Develop and manage well-functioning databases and applications
+
+Write and document effective APIs
+
+Test software to ensure responsiveness and efficiency
+
+Troubleshoot, debug and upgrade software
+
+Create security and data protection settings
+
+Build features and applications with a mobile responsive design
+
+Write technical documentation
+
+Work with data scientists and analysts to improve software
+
+Requirements:
+
+Proven experience as a Full Stack Developer or similar role
+
+Experience developing desktop and mobile applications
+
+Familiarity with common stacks
+
+Knowledge of multiple front-end languages and libraries (e.g. HTML/ CSS, JavaScript - Angular, React, Node.js, XML, jQuery)
+
+Knowledge of multiple back-end languages (e.g. Python)
+
+Familiarity with databases (e.g. MySQL, MongoDB, AWS DynamoDB), web servers (e.g. Apache) and UI/UX design
+
+Develop & deploy applications on AWS Serverless services (Lambda, Step Functions, APIGateway)
+
+Excellent communication and teamwork skills
+
+Great attention to detail
+
+Organizational skills
+
+An analytical mind
+
+
+Preferred candidate profile
+
+We are looking for a Full Stack Developer to produce scalable software solutions. Youll be part of a cross-functional team thats responsible for the full software development life cycle, from conception to deployment.
+
+
+Perks and benefits
+
+proficiency in handling imperfections in data is an important aspect of a data scientist job description.
+
+Experience with Data Visualization Tools like matplotlib, ggplot, d3.js., Tableau that help to visually encode data
+
+Excellent Communication Skills it is incredibly important to describe findings to a technical and non-technical audience.
+
+Strong Software Engineering Background
+
+Hands-on experience with data science tools
+
+Problem-solving aptitude
+
+Analytical mind and great business sense
+
+Degree in Computer Science, Engineering or relevant field is preferred
+
+Proven Experience as Data Analyst or Data Scientist
+
+Role: Data Science & Analytics - Other
+Industry Type: IT Services & Consulting
+Department: Data Science & Analytics
+Employment Type: Full Time, Permanent
+Role Category: Data Science & Analytics - Other
+Education
+UG: B.Tech/B.E. in Any Specialization, Any Graduate
+PG: M.Tech in Any Specialization, MCA in Any Specialization
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+AngularTypescriptMySQLJavascriptbackbone
+c++Githubpython nodedjango flaskBlockchainJQueryBackend DevelopmentHtml/CssBusiness AnalysisData ScienceVue.JsSoft SkillsSolidityComputer SciencePHPMongoDBCryptocurrencyWeb Development

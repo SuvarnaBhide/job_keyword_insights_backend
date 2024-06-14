@@ -1,0 +1,17 @@
+Job description
+SmartHub application, ensuring high standards of code quality and system architecture.
+Design and implement solutions for both frontend and backend components using our tech stack: Node.js, React, TypeScript, and PostgreSQL.
+Collaborate with cross-functional teams to translate business needs into technical strategies and solutions.
+Role: Full Stack Developer
+Industry Type: IT Services & Consulting
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: B.Tech/B.E. in Any Specialization, BCA in Any Specialization, Diploma in Any Specialization
+PG: M.Tech in Any Specialization, MCA in Any Specialization
+Doctorate: Doctorate Not Required
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+Cloud ComputingDevopsMachine LearningFull Stack DevelopmentPython
+TypeScriptJavaPostgreSQLPHPNode.jsReact

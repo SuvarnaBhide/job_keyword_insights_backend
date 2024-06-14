@@ -1,0 +1,26 @@
+Job description
+Required Skills:
+
+Absolute clarity in OOP fundamentals and Data-Structures
+Must have good knowledge of Multithreading, Java Collections, Java IO, JDBC, JSP, Servlets
+Knowledge of SpringBoot, Hibernate, JPA, JSF, is added advantage
+Excellent communication and presentation skills.
+
+Roles and responsibilities:
+
+Maintain and improve existing projects
+Collaborate with the technical team to develop new features and troubleshoot issues
+Lead projects to understand the requirements and deliver work to the technical team
+Follow the project/task timelines and quality.
+Role: IT Consulting - Other
+Industry Type: IT Services & Consulting
+Department: Consulting
+Employment Type: Full Time, Permanent
+Role Category: IT Consulting
+Education
+UG: B.Sc in Computers, B.Tech/B.E. in Computers, BCA in Any Specialization
+PG: MS/M.Sc(Science) in Computers, Electrical Engineering, M.Tech in Any Specialization, MCA in Computers
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+Spring BoothibernateBackend DevelopmentSoftware Developmentjava
+Full Stack Application DevelopmentjdbcCore Java ProgrammingMicroservicesoopSoftware EngineeringServlets / JspFrontend Developmentjsp servletsjpamultithreadingdata structures

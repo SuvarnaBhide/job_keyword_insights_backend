@@ -1,0 +1,40 @@
+Job description
+
+Project Role :Application Developer
+
+
+Project Role Description :Design, build and configure applications to meet business process and application requirements.
+Must have skills :Japanese
+
+Good to have skills :Oracle Siebel Configuration
+Minimum 0-2 year(s) of experience is required
+
+Educational Qualification :BE B Tech or equivalent qualification
+Summary:As an Application Developer, you will be responsible for designing, building, and configuring applications to meet business process and application requirements. Your typical day will involve working with Japanese language and utilizing Oracle Siebel Configuration skills to develop and maintain applications.
+Roles & Responsibilities:
+Design, build, and configure applications to meet business process and application requirements.
+Collaborate with cross-functional teams to identify and prioritize application requirements.
+Develop and maintain applications using Japanese language and Oracle Siebel Configuration skills.
+Ensure the performance, quality, and responsiveness of applications.
+Identify and correct bottlenecks and fix bugs in a timely manner. Professional & Technical Skills:
+Must To Have Skills:Proficiency in Japanese language.
+Good To Have Skills:Oracle Siebel Configuration.
+Experience in designing, building, and configuring applications.
+Strong understanding of software development life cycle (SDLC).
+Experience with programming languages such as Java, C++, or Python.
+Familiarity with databases such as Oracle, MySQL, or SQL Server. Additional Information:
+The candidate should have a minimum of 0-2 years of experience in Japanese language and Oracle Siebel Configuration.
+The ideal candidate will possess a strong educational background in computer science or a related field, along with a proven track record of delivering impactful software solutions.
+This position is based at our Pune office.QualificationBE B Tech or equivalent qualification
+Role: Full Stack Developer
+Industry Type: IT Services & Consulting
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: B.Tech/B.E.
+PG: Any Postgraduate
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+oracle e-business suitesoftware development life cyclejapanesemysqljapanese language
+c++pythonoraclesiebel configurationsql serversiebeljavascriptapplication developmentsqlplsqljavaapplication maintenancehtmlsdlc

@@ -1,0 +1,55 @@
+About the job
+At ePiphany AI, we are revolutionizing the AI-powered search engine space with BNNGPT. Our mission is to enhance how people access and engage with information using advanced AI technologies. We are looking for a talented Full-Stack Developer to join our dynamic team and help build and maintain our cutting-edge search engine.
+
+
+Job Description:
+
+We are seeking a skilled Full-Stack Developer to enhance and maintain our AI-powered search engine, BNNGPT. This role involves working on new features, improving existing functionalities, and ensuring smooth integration with various APIs and services. You'll be part of an innovative team, contributing to dynamic content creation, real-time interaction, and the seamless integration of AI models.
+
+
+Responsibilities:
+
+Feature Development: Develop and implement new features based on the roadmap, including search history, sharing results, video support, and RAG support.
+API Integration: Integrate and configure different APIs for text streaming, search, and content generation.
+UI Enhancement: Enhance the generative UI and maintain the existing UI components.
+Database Management: Ensure smooth setup and integration of a serverless database solution.
+App Framework Maintenance: Maintain and enhance the app framework built on Next.js and TypeScript.
+Styling and Component Management: Ensure proper styling and component behavior using modern styling frameworks and component libraries.
+Deployment: Deploy and manage live versions of the application on cloud platforms.
+Troubleshooting: Troubleshoot and fix any build errors and deployment issues.
+AI Integration: Ensure that the application can use verified AI models.
+
+
+Tech Stack:
+
+App Framework: Next.js
+Language: TypeScript
+Text Streaming / Generative UI: Vercel AI SDK
+Open-source and Private GenAI Models
+Headless Component Primitives: Radix UI
+Styling: Tailwind CSS
+
+
+Requirements:
+Proven experience in full-stack development, particularly with Next.js and TypeScript.
+Strong knowledge of JavaScript/TypeScript and modern web development frameworks.
+Experience with integrating and working with APIs (OpenAI, Tavily AI, Serper, Jina AI).
+Familiarity with serverless databases and setup.
+Proficiency in using component libraries and styling frameworks (shadcn/ui, Radix UI, Tailwind CSS).
+Experience with deploying applications on cloud platforms like Vercel and Cloudflare Pages.
+Ability to troubleshoot and resolve technical issues independently.
+Good understanding of AI models and generative UIs.
+Excellent communication skills and ability to work in a remote team environment.
+
+
+Preferred Qualifications:
+Experience with AI and machine learning models.
+Familiarity with Vercel AI SDK and other generative UI tools.
+Experience with setting up and maintaining Redis databases.
+Knowledge of headless component primitives.
+
+
+Why Join Us?
+Innovative Environment: Be part of a team that is pushing the boundaries of AI applications.
+Career Growth: Opportunities for professional development and career advancement.
+Collaborative Culture: Work in a dynamic and collaborative environment with some of the brightest minds in the industry.

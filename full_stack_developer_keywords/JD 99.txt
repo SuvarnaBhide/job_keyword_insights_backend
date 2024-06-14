@@ -1,0 +1,31 @@
+ob Description
+Unstop is looking for Frontend and Full Stack Developers. Developer responsibilities include building our application from concept all the way to completion from the bottom up, fashioning everything from the home page to site layout and function.
+
+Responsibilities of the Candidate:
+
+Write well-designed, testable, efficient code by using the best software development practices
+Integrate data from various back-end services and databases 
+Gather and refine specifications and requirements based on technical needs
+Be responsible for maintaining, expanding, and scaling our products
+Stay plugged into emerging technologies/industry trends and apply them into operations and activities
+End-to-end management and coding of all our products and services
+To make products modular, flexible, scalable and robust
+Our Tech Stack: 
+
+Angular 10 or later
+PHP Laravel
+NodeJS
+MYSQL 8
+NoSQL DB
+Amazon AWS services – EC2, WAF, EBS, SNS, SES, Lambda, Fargate, etc.
+The whole ecosystem of AWS
+Required Experience, Skills, and Qualifications:
+
+Minimum work experience of 2 years is required
+Proven working experience in programming – Full Stack
+Top-notch programming and analytical skills
+Must know and have experience in AngularJS 2 onwards
+A solid understanding of how web applications work including security, session management, and best development practices
+Adequate knowledge of relational database systems, Object-Oriented Programming and web application development
+Ability to work and thrive in a fast-paced environment, learn rapidly and master diverse web technologies and techniques
+B.Tech in Computer Science or a related field or equivalent

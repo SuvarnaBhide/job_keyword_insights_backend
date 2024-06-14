@@ -1,0 +1,35 @@
+About the job
+This job is sourced from a job board. Learn More
+Profile : MERN/PERN Stack Developer
+
+Experience : 1 to 3 years
+
+Location : Balewadi - Pune
+
+Introduction
+
+We are seeking a talented MERN/PERN Stack Developer to become a part of our dynamic team. The ideal candidate will possess robust experience in building scalable web applications using the MERN/PERN stack (MongoDB/PostgreSQL/MySQL, Express.js, React, and Node.js). You will play a critical role in developing and maintaining both backend and frontend components of our web applications.
+
+Responsibilities
+
+ Develop and maintain web applications using the MERN/PERN stack.
+ Design and implement RESTful APIs.
+ Develop and integrate various third-party APIs.
+ Collaborate with team members to ensure high-quality code and software design.
+ Ensure the responsiveness of applications.
+ Troubleshoot and debug issues as they arise.
+ Maintain detailed documentation of application code and features.
+ Participate in code reviews and contribute to continuous integration and deployment (CI/CD) pipelines.
+ Stay updated with emerging web development trends and technologies, particularly within the MERN/PERN stack ecosystem.
+
+Requirements
+
+ Demonstrated experience as a MERN/PERN Stack Developer or in a similar role.
+ Strong proficiency in JavaScript, MongoDB/PostgreSQL/MySQL, Express.js, React, and Node.js.
+ Experience with front-end technologies, including HTML, CSS, and JavaScript.
+ Proven ability working with RESTful APIs and integrating third-party APIs.
+ Familiarity with Agile/Scrum methodologies and Git-based version control systems.
+ Understanding of DevOps principles and experience with CI/CD tools.
+ Excellent problem-solving skills with keen attention to detail.
+ Outstanding communication and collaboration capabilities.
+ Bachelor's degree in Computer Science, Software Engineering, or a related field (preferred).

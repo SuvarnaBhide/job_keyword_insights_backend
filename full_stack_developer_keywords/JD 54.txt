@@ -1,0 +1,57 @@
+About The Job
+
+Who Are We :
+
+Founded by engineers passionate about transforming development, our team is comprised of computer scientists, technologists, and subject matter experts.
+
+A Global Company With a presence in 7 international locations, the delaPlex team has the ability to share diverse ideas and truly be immersed in global cultures and experience the global community.
+
+Join The DelaPlex Team
+
+ delaPlex is made up of individuals who are highly knowledgeable and respected in each of their roles.
+ We are committed to our clients' success, as well as our internal teams.
+ We go to great lengths to help everyone in our organization succeed, by offering team members the ability to grow into roles with higher responsibility and potential for personal growth.
+ If you have the skills and experience, we're looking for, and are looking for an environment where you are free to work without the burden of unnecessary constraints, then this is the opportunity for you.
+
+Responsibilities
+
+ Analyze requirements, design, develop, deploy and maintain web applications using JavaScript (React) and Python.
+ Collaborate with cross-functional teams to define, design, and ship new features.
+ Integrate user-facing elements developed by front-end developers with server-side logic.
+ Implement responsive and scalable features that meet product requirements.
+ Write reusable, testable, and efficient code.
+ Ensure the technical feasibility of UI/UX designs.
+ Optimize applications for maximum speed and scalability.
+ Maintain code integrity and organization using best practices.
+ Implement security and data protection measures.
+ Work with cloud infrastructure on AWS to deploy and scale applications efficiently.
+ Utilize CI/CD pipelines for automated testing and deployment processes.
+
+Skills And Qualifications
+
+ Proficient in JavaScript and experience with React.js.
+ Strong experience with backend development using Python.
+ Good understanding of server-side templating languages and server-side CSS preprocessors.
+ Familiarity with front-end build tools, such as Webpack, Grunt, and Gulp.js.
+ Proficient understanding of code versioning tools, such as Git.
+ Knowledge of user authentication and authorization between multiple systems, servers, and environments.
+ Understanding of fundamental design principles behind a scalable application.
+ Ability to implement automated testing platforms and unit tests.
+
+Preferred Skills
+
+ Experience with TypeScript.
+ Familiarity with AWS services and managing cloud infrastructure.
+ Experience with Continuous Integration and Continuous Deployment (CI/CD) practices.
+
+Benefits
+
+ Health/ Medical insurance
+ Gratuity
+ Employee's Provident Fund (EPF)
+ On-job training
+ On-site opportunity
+ Leaves and holidays
+ Workplace security
+
+Skills : python,react,aws

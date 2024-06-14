@@ -1,0 +1,18 @@
+Job Description
+H K Infosoft is hiring for the role of Full Stack Developer!
+
+Responsibilities of the Candidate:
+
+Work effectively with a cross-functional team of managers, designers, developers, and Quality Assurance.
+Escalating and resolving areas of concern as raised internally.
+Write well-designed, scalable, reliable, testable, and reusable code by using best software development practices.
+Deliver high-quality projects along with completion of unit testing.
+Maintain high standards of quality for code, technical documentation, and deliverables.
+Requirements:
+
+Ability to design scalable & high performing applications
+Excellent knowledge and experience in Node js, Javascript, React, and other frameworks
+Excellent knowledge and experience in SQL and No-SQL Databases
+Expertise in Data structures & algorithms along with Design Patterns
+Confidence in handling spoken and written communication
+M.Sc. IT/MCA/BCA/B.E. in Computer Science or equivalent degree with relevant coding experience

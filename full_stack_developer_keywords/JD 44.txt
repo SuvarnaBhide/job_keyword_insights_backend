@@ -1,0 +1,15 @@
+Job Description
+APT Portfolio is hiring for the role of Full Stack Developer
+
+Responsibilities of the Candidate:
+
+Design & develop client-side and server-side application architectures.
+Write effective APIs and create security and data protection settings.
+Test of software to ensure responsiveness and efficiency and write technical documentation and user manuals.
+Build features and applications with a mobile-first mindset.
+Taste for fluid, responsive and appealing UI design.
+Requirements :
+
+Degree in Computer Science / Equivalent Experience in the relevant domain.
+Knowledge (1+ years) of Python language and JavaScript framework React and backend. framework ( Django with libraries like django-rest-framework Django-channels).
+Familiarity with databases (e.g. MySQL, MongoDB, etc) and UI/UX design fundamentals.

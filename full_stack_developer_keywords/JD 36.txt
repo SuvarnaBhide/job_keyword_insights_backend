@@ -1,0 +1,23 @@
+Job Description
+Consultbae is hiring for the role of Full Stack Developer!
+
+Responsibilities of the Candidate:
+
+Develop full-stack applications using ReactJS, NodeJS, SQL, and TypeScript, ensuring high-quality, maintainable code
+Design and implement user interfaces using React.js, focusing on creating intuitive and responsive designs
+Develop server-side logic using NodeJS and SQL, ensuring efficient data processing and secure API endpoints
+Utilize TypeScript for static typing, enhancing code quality and maintainability
+Integrate applications with cloud services, leveraging AWS for scalable and secure solutions
+Collaborate with the team to define, design, and ship new features
+Ensure the performance, quality, and responsiveness of applications
+Identify and correct bottlenecks and fix bugs
+Help maintain code quality, organization, and automatization
+Requirements:
+
+2+ years of experience as a Full Stack Developer
+Proficient understanding of ReactJS, NodeJS, SQL, and TypeScript
+Familiarity with Python, Database, and AWS services, including AWS Lambda and S3
+Experience with RESTful APIs
+Strong knowledge of code versioning tools, such as Git
+Excellent problem-solving skills and attention to detail
+Strong communication skills and the ability to work in a team

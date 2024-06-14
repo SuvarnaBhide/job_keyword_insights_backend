@@ -1,0 +1,47 @@
+About the job
+At EY, you’ll have the chance to build a career as unique as you are, with the global scale, support, inclusive culture and technology to become the best version of you. And we’re counting on your unique voice and perspective to help EY become even better, too. Join us and build an exceptional experience for yourself, and a better working world for all.
+
+The opportunity
+
+We are looking for new colleague who will be part of our amazing digital team as .NET Full-Stack Developer. We’re looking for someone with a passion for technology, self-motivated and results-oriented individual with the ability to work effectively with other team members on all aspects of technology design, development, integration and deployment of products and implement them across web, API.
+
+Our Technology Stack
+
+C#, .Net 6 RESTful services, Entity framework, ADO.Net
+Angular 14+
+SQL Server
+Git (Github), Azure DevOps
+Azure Functions, Azure Event Grid, Azure CDN, Azure Gateway, App services 
+Visual Studio
+Scrum Methodology
+
+Your Key Responsibilities
+
+Design, build, and maintain efficient, reusable, and reliable code
+Translate application storyboards and use cases into functional applications
+Test software to ensure responsiveness and efficiency 
+Ensure the best possible performance, quality, and responsiveness of applications
+Understand existing application architecture and solution design
+Write unit tests and ensure high code coverage to improve software quality and maintainability
+Leverage data structures, algorithms, and programming patterns while coding
+Write technical documentation
+
+Skills And Attributes For Success
+
+A bachelor's or master's degree in Computer Science
+A minimum of 2 years of experience in .NET Development
+Strong knowledge of C#, .NET 6, SQL Server
+Experience as Full Stack Developer (Javascript, Typescript, Angular/React)
+Strong knowledge in OOPS
+Good experience in writing SQL queries and Stored procedures
+Have good experience in DevSecOps process
+Good to have work experience in SQL, SSRS, SSIS
+Good to have Azure Certifications
+
+Soft Skills
+
+Excellent Communication Skills
+Team Player
+Self-starter and highly motivated
+Ability to handle high pressure and fast paced situations.
+Ability to work with globally distributed teams.

@@ -1,0 +1,24 @@
+Job Description
+Techies is hiring for the role of Full Stack Developer!
+
+Responsibilities of the Candidate:
+
+Developing high-quality bespoke software code
+Taking part in technical design and progress meetings
+Ensuring responsiveness of applications
+Working alongside graphic designers for web design features
+Discovering, learning, and integrating new technologies into applications to speed up system development or offer cutting-edge services to our clients
+Creating servers and databases for functionality
+Requirements:
+
+Backend languages such as PHP, Python, Node, ROR
+Understanding of MVC. i.e Laravel, Yii, etc
+Knowledge of Technology stack eg. LAMP stack, Django stack
+Proficiency in eCommerce Platforms like Magento, BigCommerce & Shopify
+Designing and developing APIs
+Familiarity with JavaScript frameworks such as Angular JS, React
+Familiarity with database technology such as MySQL, Oracle, and MongoDB
+Working Knowledge of Git
+Strong organizational and project management skills
+Knowledge of Agile (Scrum) methodology
+Experience with unit testing

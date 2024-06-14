@@ -1,0 +1,19 @@
+Job Description
+Vertoz is hiring for the role of Full Stack Developer!
+
+Responsibilities of the Candidate:
+
+Understanding Java programming language, including object-oriented design principles, data structures, and algorithms
+Understanding JavaScript and TypeScript programming languages
+Working with relational databases like MySQL, and Oracle, including database design, querying, and optimization
+Requirements:
+
+Strong hands-on experience in AngularJS, Angular 4 +Version and, Spring boot, MySQL, core Java, and Hibernate
+Familiarity with Git for version control, including branching, merging, and pull request workflows
+Strong analytical and problem-solving abilities to debug issues, optimize performance, and implement efficient solutions across the full-stack
+Proficient in HTML5 and CSS3 for building responsive and visually appealing user interfaces
+Experience in writing clean, maintainable, and efficient code using these languages
+Ability to work on both frontend and backend development tasks
+Proficiency in developing RESTful APIs and implementing frontend-backend communication
+Good understanding of HTML5, CSS3, Bootstrap, JavaScript, jQuery, Typescript, Spring boot, MySQL, and core Java
+Excellent problem-solving, design

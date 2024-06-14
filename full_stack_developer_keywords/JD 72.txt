@@ -1,0 +1,58 @@
+About the job
+You're taking the effort to read this job post, so we ought to take the effort to make it a fun read (:
+
+
+Ellenox is a growing venture studio and product lab. The Ellenox mission is to make the world better, together. We do that through the channel of growing ambitious small businesses (in today's jargon, called startups).
+
+
+We're a small, ambitious team that loves to help early-stage startups get their ideas off the ground. How do we do that? We couldn't give you a formula. If there was a general blueprint we'd see a lot more unicorns. We just help brilliant founders figure out their landscape, and build the scaffolding for them to succeed. That can look like building their app, interviewing users, or building a go-to-market strategy. We just get shit done.
+
+
+We work with humans from students to entrepreneurs and venture capitalists, because what we look for is potential.
+
+
+And potential is the main thing we're looking for from you. There's a bunch of job-specific technical jargon below that we hope you understand and nod your head to, but at the end of the day we're just looking for people that get shit done. If you believe yourself to be one of them, reach out to us. Join the Ellenox mission.
+
+
+What you enjoy
+
+
+
+Taking ownership of the quality of your code and full stack architecture
+Setting a high bar for yourself
+Working in a growth-oriented team
+
+
+What you've ideally been upto
+
+
+
+2+ year(s) learning cool things in both frontend and backend
+Designing and building your own projects (show us!)
+
+
+What you ought to know
+
+
+
+We're sure you know Git, but our team asked us to put it here anyway
+Some web dev and front-end (React, Angular - the usual suspects)
+The holy trinity of cloud platforms - AWS, GCP, Azure
+Database tech! Whether that's SQL (MYSQL, PostGRES) or NoSQL (MongoDB, Firestore)
+How to build an API (NodeJS, Python)
+The magic of CI/CD
+
+
+What you get out of this
+
+
+
+A flexible, remote work environment
+The opportunity to build stuff that's changing the world
+A fun team (but don't take our word for it, come say hi sometime!)
+Obviously, money and holidays :)
+
+
+Please fill out this Google Form questionnaire, it helps us make sure you're a great fit:
+
+https://forms.gle/kHVB5LQz1XnFswjC6

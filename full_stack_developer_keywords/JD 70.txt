@@ -1,0 +1,32 @@
+About the job
+Company Description
+
+uParcel is a Singapore-based company that aims to optimize urban logistics through AI route-planning technology. We connect communities with their parcels by optimizing resource collaboration and providing reliable same-day delivery at a flat rate. We have been recognized as one of the top companies in Asia Pacific by Financial Times and as one of the fastest-growing companies in Singapore by the Straits Times. With our trustmark protected data and GDPMDS certification, we are committed to sustainable and efficient urban logistics.
+
+
+Role Description
+
+This is a full-time remote role for a Full Stack Engineer at uParcel. As a Full Stack Engineer, you will be responsible for both back-end and front-end development, as well as software development in a full-stack environment. You will work with technologies such as React, Flutter (mobile app) and Python to deliver optimized and efficient solutions for urban logistics.
+
+
+Qualifications
+
+2 years experience in Back-End Web Development and Front-End Development
+Proficiency in Software Development and Full-Stack Development
+Knowledge of React and frameworks
+Strong problem-solving and analytical skills
+Experience with agile development methodologies
+Excellent communication and collaboration skills
+Ability to work independently and remotely
+Experience in optimizing logistics or related fields is a plus
+Bachelor's degree in Computer Science or related field
+
+
+Expected salary range is 4-8 lakh per annual before performance bonus. 
+
+
+
+Please complete quiz for understanding of your skillset https://coderbyte.com/sl-candidate?promo=uparcel-9w359:fullstack-developer-react-v91q9sze9x&invb=user813jshxz
+
+
+Only applicants who have passed the quiz will be contacted. Thank you

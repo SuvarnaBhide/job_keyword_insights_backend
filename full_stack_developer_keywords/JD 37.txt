@@ -1,0 +1,15 @@
+Job Description
+XynoSoft is hiring for the role of Full Stack Developer!
+
+Responsibilities of the Candidate:
+
+Support and review internal applications based on PHP/JavaScript
+Assist with troubleshooting and resolving issues
+Create workflow process and provide documentation
+Develop Internal Tools And Infrastructure That Supports Internal Applications
+Requirements:
+
+2+ years of full-stack development experience
+Hands-on experience with PHP (Laravel & Codeigniter) MySql; Angular; and CSS/SCSS
+Experience building tools using APIs
+Bachelor's Degree in Computer Science

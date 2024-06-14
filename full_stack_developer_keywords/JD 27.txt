@@ -1,0 +1,36 @@
+Job Description
+EthAum Venture Partners is seeking a talented and motivated Full Stack Developer to join our growing team.
+
+Responsibilities of the Candidate:
+
+Build a SaaS Marketplace to enable SaaS discovery, transactions and management between sellers and buyers. 
+Develop and maintain the front end of applications using AngularJS and Ionic Framework.
+Design and implement RESTful APIs using Java Spring Boot.
+Collaborate with cross-functional teams to define, design, and deliver new features.
+Build and optimize data storage solutions using Mongo database.
+Implement and maintain security best practices in both front-end and back-end development.
+Write well-designed, efficient, and testable code following coding standards.
+Perform code reviews and provide constructive feedback to team members.
+Ensure the scalability, performance, and responsiveness of applications.
+Troubleshoot, debug and optimize application components.
+Requirements:
+
+Proven experience as a Full Stack Developer with expertise in AngularJS and Ionic Framework for front-end development
+Strong proficiency in Java Spring Boot for building RESTful APIs
+Experience with Mongo database
+Familiarity with HTML, CSS, and JavaScript
+Solid understanding of RESTful API design principles
+Knowledge of authentication and authorization mechanisms
+Experience with version control systems (e.g., Git)
+Strong problem-solving skills and attention to detail
+Excellent communication and collaboration abilities
+Comfortable working in a remote team environment
+Fresher or student with relevant skills and experience
+Open to candidates from all engineering, business, and arts backgrounds
+Knowledge of cloud platform - AWS
+Familiarity with containerization and orchestration (e.g., Docker, Kubernetes)
+Mobile application development experience with Ionic Framework
+Experience with continuous integration and continuous deployment (CI/CD) pipelines
+Note:
+
+This is a contract position convertible to a full-time role, offering the flexibility to work from home.

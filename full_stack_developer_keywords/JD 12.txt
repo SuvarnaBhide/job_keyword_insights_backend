@@ -1,0 +1,79 @@
+Job description
+Roles
+
+
+We are looking for a skilled React+Node js developer to join our web development team. In this role, you will be responsible for developing and implementing full stack web applications with user interface components using ReactJS, and backend with NodeJS concepts and workflows. You will also be involved in backend and database design and implementation with technologies such as noSQL dB, RDBMS, and using suitable frameworks like Python/Django wherever required.
+
+
+To ensure success as a web developer, you should have in-depth knowledge of JavaScript and React concepts, excellent front-end coding skills, and a good understanding of backend with Node or Django. Ultimately, a top-class developer should be able to design and build modern user interface components to enhance application performance.
+
+
+To ensure success as a react.js developer, you should have in-depth knowledge of JavaScript and React concepts, excellent front-end coding skills, and a good understanding of progressive web applications.
+
+
+Ultimately, a top-class react.js developer should be able to design and build modern user interface components to enhance application performance.
+
+
+
+Responsibilities
+
+
+1. Design, develop, and test front-end UI & back-end.
+
+2. Build reusable code and libraries for future use.
+
+3. Accurately translate user and business needs into functional code.
+
+4. Develop/Optimize apps, using frameworks wherever applicable.
+
+5. Create quality mock-ups and prototypes.
+
+6. Stay responsible for evaluating and defining requirements and problem statements.
+
+7. Integrate data from various back-end services and databases.
+
+
+
+
+
+Profile
+
+
+1. 0-1 years of relevant experience with strong hands-on coding and design skills.
+
+2. Hands-on experience in JavaScript.
+
+3. Proven knowledge of having worked with React frameworks.
+
+4. Good understanding of backend frameworks like NodeJS/ExpressJS/Django.
+
+5. Knowledge of having worked with back-end, database and cloud technologies
+
+(Firebase/GCP/AWS/Azure etc.).
+
+6. Familiar with testing, debugging, and logging techniques and tools.
+
+7. Strong analytical skills and problem-solving techniques.
+
+8. Excitement and passion to work on amazing products.
+
+9. Desired experience on database management systems (MySQL/MongoDB/Firestore etc.).
+
+
+
+
+
+
+
+Role: Full Stack Developer
+Industry Type: Software Product
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: BCA in Computers, B.Tech/B.E. in Computers
+PG: MCA in Computers
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+Mern StackFirebaseMean Stackproblem - solving techniquesJavascript
+codingHtml/Css

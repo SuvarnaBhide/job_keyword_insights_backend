@@ -1,0 +1,23 @@
+Job Description
+SharpCode is hiring for the role of Full Stack Developer!
+
+Responsibilities of the Candidate:
+
+Develop and maintain front-end and back-end components of web applications.
+Collaborate with teams to design and deploy new features.
+Write clean, efficient code and troubleshoot issues.
+Requirements:
+
+Proficiency in HTML, CSS, JavaScript, and front-end frameworks
+Strong server-side programming skills (Node.js, Python, Ruby, Java, or PHP)
+Experience with database systems and RESTful API design
+Git proficiency for version control
+Bachelor's degree in any field (final year students also welcome)
+0-1 years of full stack development experience
+Preferred Skills:
+
+Cloud platform experience (AWS, Azure, GCP)
+Knowledge of containerization (Docker) and orchestration (Kubernetes)
+Understanding of DevOps principles and CI/CD pipelines
+Familiarity with agile methodologies
+Startup environment experience

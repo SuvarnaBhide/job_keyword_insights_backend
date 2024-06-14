@@ -1,0 +1,23 @@
+About the job
+This job is sourced from a job board. Learn More
+Key Responsibilities
+
+ Develop user interfaces with the latest frontend technologies
+ Research, analyze, and develop product features of an increasingly complex nature
+ Work using code-tested and documented JavaScript, HTML, PUG, and CSS
+ Make design and technical decisions for ReactJS projects
+ Develop application code and unit testing in ReactJS with REST APIs
+ Ensure the high performance of all systems developed
+ Review application requirements and interface designs
+
+Requirements
+
+ Knowledge of REACT tools including React.js, Webpack, and Flux
+ React coding experience is a must to be shortlisted (minimum 1 year)
+
+Additional Information
+
+ While any engineering graduate is welcome to apply, we are particularly looking for candidates who are trying to rejoin work after a brief period of absence due to family, personal, or professional situations
+ On successful completion of 3 months probation, you may be offered a permanent role with our company as a frontend developer, in either Bangalore or Pune
+
+About Company: We are data analytics, IoT and digital services provider with offices in Bangalore and Pune. We are passionate about applying technology for better business decisions.

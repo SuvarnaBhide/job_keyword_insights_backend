@@ -1,0 +1,76 @@
+ob description
+
+**Job Title:** Software Engineer Trainee
+
+
+**Job Description:**
+
+
+**Responsibilities:**
+
+
+1. **Learning:** Actively participate in training programs to learn Java Fullstack and Python programming languages.
+
+2. **Development:** Assist in designing, coding, testing, and debugging software applications under the guidance of senior developers.
+
+3. **Documentation:** Document code consistently throughout the development process.
+
+4. **Collaboration:** Collaborate with team members to brainstorm and create innovative solutions.
+
+5. **Troubleshooting:** Assist in troubleshooting, diagnosing, and fixing bugs in new and existing software applications.
+
+6. **Continuous Improvement:** Stay updated on emerging technologies and trends in software development.
+
+
+**Requirements:**
+
+
+1. **Educational Background:** Bachelors degree in Computer Science, Engineering, or a related field.
+
+2. **Programming Skills:** Basic understanding of Java Fullstack and Python programming languages.
+
+3. **Problem-Solving Skills:** Strong analytical and problem-solving skills.
+
+4. **Team Player:** Ability to work effectively in a collaborative team environment.
+
+5. **Communication Skills:** Good verbal and written communication skills.
+
+6. **Adaptability:** Willingness to learn new technologies and adapt to changing project requirements.
+
+7.** 60% Throughout in all the academics
+
+
+**Benefits:**
+
+
+1. **Training Programs:** Opportunities for continuous learning and skill development.
+
+2. **Career Growth:** Potential for career advancement within the company.
+
+3. **Health Benefits:** Health insurance and other employee benefits.
+
+4. **Work-Life Balance:** Flexible work hours and a supportive work environment.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Role: Full Stack Developer
+Industry Type: IT Services & Consulting
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: B.Tech/B.E. in Electrical and Electronics, Information Technology, Computers, Electrical
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+Java Fullstack
+JavaCodingGood Comm SkillsMicroservicesPythonInterpersonal Skills

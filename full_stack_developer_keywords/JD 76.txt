@@ -1,0 +1,75 @@
+About the job
+Our Purpose
+
+We work to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart and accessible. Using secure data and networks, partnerships and passion, our innovations and solutions help individuals, financial institutions, governments and businesses realize their greatest potential. Our decency quotient, or DQ, drives our culture and everything we do inside and outside of our company. We cultivate a culture of inclusion for all employees that respects their individual strengths, views, and experiences. We believe that our differences enable us to be a better team – one that makes better decisions, drives innovation and delivers better business results.
+
+Title And Summary
+
+Software Engineer II
+
+Overview
+
+Who is Mastercard? Mastercard is a global technology company in the payments industry. Our mission is to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart, and accessible. Using secure data and networks, partnerships and passion, our innovations and solutions help individuals, financial institutions, governments, and businesses realize their greatest potential. Our decency quotient, or DQ, drives our culture and everything we do inside and outside of our company. With connections across more than 210 countries and territories, we are building a sustainable world that unlocks priceless possibilities for all.
+
+The Decision Management team (part of MA Tech) is developing new capabilities for MasterCard's Decision Management Platform, which serves as the core for multiple business solutions to combat fraud and validate cardholder identity. Our patented Java-based platform processes billions of transactions per month in tens of milliseconds using a multi-tiered, message-oriented approach for high performance and availability.
+
+MasterCard software engineering teams leverage Agile development principles, advanced development and design practices, and an obsession over security, reliability, and performance to deliver solutions that delight our customers. We're looking for talented software development engineers and architects to develop advanced technologies and applications that are revolutionizing payments.
+
+ Would you like to develop industry leading solutions for fighting fraud?
+ Are you motivated by speeding business solutions to market?
+ Do you want to innovate, using cutting edge technologies on challenging business problems?
+ Do you want to work for a company that offers above and beyond benefits including paid parental leave, flexible work hours, gift matching, and even volunteer incentives while encouraging your own professional learning and development?
+ Do you thrive in a place where you are continuously learning more while growing your skills and career?
+
+
+Role
+
+ Successfully deliver as part of a team on major projects and complex assignments with broad scope and long-term business implications.
+ Work closely with technical leads on assigned projects to assist in implementation tasks.
+ Assist with production support issues by acting as a subject matter expert in resolving incidents and problem tickets.
+ Be an integral part of the Agile SAFe discover and elaboration sessions.
+ Have strong ownership of your team’s software and are deep in the maintenance characteristics, runtime properties and dependencies including hardware, operating system, and build.
+ Communicate, collaborate, and work effectively in a global environment.
+
+
+All About You
+
+ Prior software development experience, particularly using Java
+ Understanding of integrating vendor and open source products into an overall system
+ Familiarity with a variety of architectural patterns including multi-tiered web applications and high performance, high availability transaction processing systems
+ Previous experience developing and supporting a high performance, transaction processing system
+ Must provide the necessary skills to have a high degree of initiative and self-motivation to drive results.
+ Possesses strong communication skills -- both verbal and written – and strong relationship, collaborative skills, and organizational skills.
+ Willingness and ability to learn quickly and take on challenging opportunities and to work as a member of matrix based diverse and geographically distributed project team.
+ Knowledge of software development processes including agile processes and test-driven development
+ Must be high-energy, detail-oriented, proactive and can function under pressure in an independent environment.
+ Bachelor's degree in Information Systems, Information Technology, Computer Science or Engineering or equivalent experience.
+
+
+Essential Skills Required
+
+ Experience in Core Java including multi-threading
+ Advanced knowledge of Java/J2EE
+ Advanced Knowledge of Spring Framework (including Spring Boot)
+ Knowledge of Splunk, creating dashboards, alerts/monitors.
+ Oracle & PL/SQL and advanced SQL scripting
+ IDE such as JBoss Developer Studio/IntelliJ
+
+
+Desirable Skills
+
+ Knowledge of Distributed Computing at scale
+ Experience working in at-scale distributed compute such as Gemfire, Apache Spark, Distributed Redis, Hazelcast, GridGain or similar
+ Messaging – MQ and JMS
+ Strong Linux and shell scripting
+ Experience integrating vendor and open-source products into an overall system
+
+
+Corporate Security Responsibility
+
+ All activities involving access to Mastercard assets, information, and networks comes with an inherent risk to the organization and, therefore, it is expected that every person working for, or on behalf of, Mastercard is responsible for information security and must:
+
+Abide by Mastercard’s security policies and practices;
+Ensure the confidentiality and integrity of the information being accessed;
+Report any suspected information security violation or breach, and
+Complete all periodic mandatory security trainings in accordance with Mastercard’s guidelines.

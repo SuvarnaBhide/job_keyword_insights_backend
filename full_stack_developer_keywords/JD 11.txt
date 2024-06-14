@@ -1,0 +1,45 @@
+Job description
+We are seeking a versatile and skilled Full Stack Developer to join our development team
+The ideal candidate will have expertise in both front-end and back-end technologies, enabling them to create end-to-end web solutions that deliver exceptional user experiences
+As a Full Stack Developer, you will collaborate with cross-functional teams to design, develop, and maintain web applications that align with our business needs and technological goals
+Key Responsibilities:
+Collaborate with designers, product managers, and other developers to understand project requirements and translate them into functional web applications.
+Design and implement responsive user interfaces using HTML, CSS, and JavaScript frameworks.
+Develop server-side logic and APIs using programming languages like Python, Ruby, Java, Node.js, or others.
+Create and manage databases, ensuring data integrity, performance, and security.
+Integrate front-end and back-end components to ensure seamless communication and functionality.
+Write clean, modular, and reusable code that adheres to coding standards and best practices.
+Optimize applications for speed, performance, and scalability.
+Troubleshoot and debug issues across the full application stack, and provide timely solutions to technical challenges.
+Stay updated on industry trends, emerging technologies, and best practices in both front-end and back-end development.
+Collaborate with the QA team to test and validate application functionalities.
+Participate in code reviews to maintain code quality and consistency across the development team.
+Continuously learn and adapt to new technologies and development methodologies.
+Take ownership of projects and deliver high-quality software solutions within deadlines.
+Qualifications and Skills:
+Bachelors degree in Computer Science, Software Engineering, or a related field (or equivalent work experience).
+Proven experience as a Full Stack Developer with a portfolio showcasing full-stack development projects.
+Proficiency in both front-end and back-end technologies, including HTML, CSS, JavaScript, and a server-side programming language.
+Experience with front-end libraries and frameworks (React, Angular, Vue.js, etc.) and back-end frameworks (Django, Ruby on Rails, Express.js, etc.).
+Strong understanding of RESTful API design, database management, and web architecture.
+Familiarity with version control systems (e.g., Git) and collaborative coding workflows.
+Knowledge of database management systems (e.g., SQL, NoSQL) and query optimization techniques.
+Ability to work collaboratively in a team environment, communicate effectively, and provide constructive feedback.
+Problem-solving skills and the ability to debug and troubleshoot technical issues.
+Experience with cloud platforms and services (AWS, Azure, Google Cloud) is a plus.
+Understanding of containerization technologies (Docker) and microservices architecture is a plus.
+Benefits:
+Benefit from invaluable mentorship provided by seasoned leaders.
+Enjoy a vibrant atmosphere enriched with engaging games and activities.
+Receive quarterly rewards as a token of recognition for your valuable contributions.
+Immerse yourself in a creative and open culture that fosters innovation.
+Role: Software Development - Other
+Industry Type: Film / Music / Entertainment
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: Any Graduate
+PG: Any Postgraduate
+Key Skills
+Computer scienceFront endVersion controlCodingWeb developmentJavascriptHTMLInternshipSQLPython

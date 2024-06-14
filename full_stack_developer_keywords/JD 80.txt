@@ -1,0 +1,51 @@
+About the job
+Company Description
+
+IntegriChain is the data and application backbone for market access departments of Life Sciences manufacturers. We deliver the data, the applications, and the business process infrastructure for patient access and therapy commercialization. More than 250 manufacturers rely on our ICyte Platform to orchestrate their commercial and government payer contracting, patient services, and distribution channels. ICyte is the first and only platform that unites the financial, operational, and commercial data sets required to support therapy access in the era of specialty and precision medicine. With ICyte, Life Sciences innovators can digitalize their market access operations, freeing up resources to focus on more data-driven decision support. With ICyte, Life Sciences innovators are digitalizing labor-intensive processes – freeing up their best talent to identify and resolve coverage and availability hurdles and to manage pricing and forecasting complexity.
+
+We are headquartered in Philadelphia, PA (USA), with offices in: Ambler, PA (USA); Pune, India; and Medellín, Colombia. For more information, visit www.integrichain.com, or follow us on Twitter @IntegriChain and LinkedIn.
+
+We are excited to offer a remote friendly working environment for our employees. To be successful in this role, there are travel requirements (one in-person visit or more per quarter) to our office locations (indicate either Pune, India or Philadelphia, PA) for workshops, team meetings and collaborative activities.
+
+Responsibilities
+
+Job Description
+
+Responsible for building and maintaining stable products with latest tech-stack, frameworks and following Agile and DevOps ways-of-working
+Accountable for delivering quality solutions to the problems without compromising on the planned deadlines. Comfortable leading a team of developers. 
+Opportunity to transform by redesigning and enhancing applications to latest technologies
+Maximize the opportunity to excel in an open and recognizing work culture. Be a problem solver, leader, and a team player to make a bigger contribution to the achievements. 
+Play a part in every aspect of the software development lifecycle, including software design, development, testing, reviewing, and deployment
+Open to learn from each other in the team and each experience day-to-day
+
+Professional Approach
+
+Ready to work in flexible working hours as per the requirement
+Good communication skills (written, verbal, listening, and articulation)
+
+Qualifications
+
+Have at least 2 years of experience with two or more development languages. Experience working on Python is a MUST. 
+Experience in writing relatively complex DB queries (any relational DB) is a MUST. 
+Experience in building RESTful APIs using Python and web frameworks such as Flask is a MUST
+Experience in working in any of the ORM tools like SQLAlchemy, Django is a MUST
+Working knowledge on cloud services of AWS (or Azure) is highly desirable
+Experience in building applications with containerization like Docker is nice to have
+Experience in building web platform with Angular 9+ (React could be an alternative) is nice to have
+Skillful in writing high-quality, well-tested code
+Comfortable with Agile methodologies, such as Scrum, Kanban
+Key competencies required: Problem-Solving, Analytical, Collaboration, and Accountability
+An influencer by always advocating for technical excellence and innovation while being open to change when needed
+Resilient in ambiguous situations and can approach challenges from multiple perspectives
+Efficiently utilize DevOps tools and practices to build and deploy software
+AWS® certifications would be an advantage
+
+Additional Information
+
+What does IntegriChain have to offer?
+
+Mission driven: Work with the purpose of helping to improve patients' lives! 
+Excellent and affordable medical benefits + non-medical perks including Flexible Paid Time Off
+Robust Learning & Development opportunities including over 700+ development courses free to all employees
+
+IntegriChain is committed to equal treatment and opportunity in all aspects of recruitment, selection, and employment without regard to race, color, religion, national origin, ethnicity, age, sex, marital status, physical or mental disability, gender identity, sexual orientation, veteran or military status, or any other category protected under the law. IntegriChain is an equal opportunity employer; committed to creating a community of inclusion, and an environment free from discrimination, harassment, and retaliation.

@@ -1,0 +1,22 @@
+Job Description
+Vision Mechatronics is hiring for the role of Full Stack Developer!
+
+Responsibilities of the Candidate:
+
+Design and develop full-stack web applications using industry-standard technologies and best practices.
+Collaborate with cross-functional teams to gather requirements, design solutions, and deliver high-quality software.
+Implement and maintain front-end and back-end components, ensuring seamless user experience and application performance.
+Troubleshoot and resolve technical issues, ensuring the stability and reliability of applications.
+Stay abreast of emerging technologies and industry trends to enhance development practices.
+Requirements:
+
+Strong proficiency in full-stack development, including front-end (HTML, CSS, JavaScript) and back-end (Java, Python, Node.js)
+Experience with popular web frameworks (e.g., React, Angular, Django, Flask)
+Solid understanding of database management systems (e.g., MySQL, PostgreSQL, MongoDB)
+Familiarity with cloud computing platforms (e.g., AWS, Azure, GCP)
+Excellent problem-solving skills and attention to detail
+Strong communication and collaboration abilities
+Bachelor's or Master's degree in Computer Science or a related field
+Perks:
+
+Medical Insurance

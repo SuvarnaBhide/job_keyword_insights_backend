@@ -1,0 +1,19 @@
+Job Description
+Emerson is hiring for the role of Full Stack Developer!
+
+About us:
+
+Emerson’s industry-leading portfolio enables us to identify and confront the challenges of an increasingly complex and unpredictable marketplace from a position of strength, driving near- and long-term value as a trusted partner for our customers.
+
+Requirements:
+
+Bachelor’s degree or equivalent in science with a technical background (MIS, Computer Science, Engineering or any related field)
+Good interpersonal skills using English, both spoken and written, as will be working with an overseas team.
+2-3 years of Proven experience & solid understanding of both front-end and back-end development concepts.
+Familiarity with front-end technologies, such as JavaScript, React, Angular, Vue.js, and Bootstrap.
+Solid experience in API development & frameworks, including .NET Core and Python.
+Proficient knowledge of databases, including MS SQL and PostgreSQL.
+We require individual having strong analytical and problem-solving skills; proven history of successful problem solving.
+You should have experience in a version control system and code deployment systems.
+We look for person who is motivated and proficient to contribute time and effort to work assigned.
+We need your ability to work optimally in a multi-cultural, team-oriented, collaborative environment.

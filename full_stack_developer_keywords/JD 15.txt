@@ -1,0 +1,40 @@
+ob description
+What will keep you engaged:
+
+Using your hands-on experience and understanding of object-oriented programming, data structures, algorithms, and web application development to build elegant solutions.
+
+Channeling your strong customer-focused mindset to develop client-ready product features
+
+ 
+
+Qualifications
+What expertise you will need:
+
+Proficiency with any one of these languages - NodeJS or Python
+
+Experience in working with natural language processing models is a good to have
+
+Experience with working with data and integrations
+
+Experience in working with DynamoDB or other NoSQL Databases is a good to have
+
+Experience working on AWS platform for development is a good to have
+
+High degree of comfort with Agile development methodology and more importantly the ability to thrive in in an agile environment
+
+Excellent verbal and written communication skills to collaborate across teams
+
+Minimum Qualification:
+
+Bachelor s degree in Computer Science or equivalent
+
+Role: Software Development - Other
+Industry Type: BPO / Call Centre
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: Any Graduate
+PG: Any Postgraduate
+Key Skills
+Computer scienceWeb application developmentNoSQLSenior managementAgile developmentMachine learningData structuresNatural language processingObject oriented programmingPython

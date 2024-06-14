@@ -1,0 +1,20 @@
+Job Description
+ZOG Global is hiring for the role of Full Stack Developer!
+
+Responsibilities of Candidate:
+
+Design and develop highly scalable and responsive web applications using modern JavaScript frameworks like React, Angular, or Vue.js.
+Collaborate with designers and product managers to translate user needs into intuitive and user-friendly interfaces.
+Write clean, maintainable, and efficient code adhering to best practices and coding standards.
+Implement unit and integration tests to ensure code quality and functionality. 
+Requirements:
+
+Excellent communication skills, both written and verbal
+Fluent with Agile workflows
+Front-end languages: React, HTML, CSS, Javascript, JQuery
+Back-end languages: Python
+Frameworks: Django, Flask, .Net
+Databases: MySQL, Postgres
+Web servers: IIS, Apache and Nginx
+UI/UX Design Concepts
+CMS platforms: WordPress and Drupal

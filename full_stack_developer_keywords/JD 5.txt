@@ -1,0 +1,62 @@
+Job description
+Bachelors degree in Computer Science, Engineering, or related field, or equivalent work experience.
+
+
+Responsibilities
+
+1. Develop and maintain RESTful APIs using Django.
+
+2. Design and implement Microsoft SQL database to support web applications.
+
+3. Build responsive and dynamic user interfaces with JavaScript and Bootstrap.
+
+4. Collaborate with cross-functional teams to define, design, and ship new features.
+
+5. Ensure the performance, the quality and responsiveness of applications.
+
+Requirements
+
+1. Proficiency in Django and Python for backend development.
+
+2. Experience with Microsoft SQL or similar relational databases.
+
+3. Strong front-end skills in ReactJS, JavaScript and Bootstrap.
+
+4. Familiarity with RESTful API design and implementation.
+
+5. Basic understanding of AI and NLP concepts is a plus.
+
+6. Excellent problem-solving skills and attention to detail.
+
+7. Strong communication skills and ability to work in a team-oriented environment.
+
+Other Skills
+
+1. Experience with version control systems like Git.
+
+2. Familiarity with agile development methodologies.
+
+3. Experience with front-end frameworks such as React or Vue.js.
+
+4. Knowledge of Artificial Intelligence and Natural Language Processing (NLP) is a plus
+
+5. Basic Linux administration tasks is a Bonus.
+
+6. Knowledge of flutter for cross platform applications is a plus.
+
+
+Salary Negotiable
+
+
+
+Role: Front End Developer
+Industry Type: Financial Services (Asset Management)
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: B.Sc in Computers, B.Tech/B.E. in Information Technology
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+Linux AdministrationFull-Stack Developer
+CSSbootstrap javascriptAIFull Stack Application DevelopmentJQueryJavaScript and BootstrapNLPDjangoMicrosoft Sql Server DatabaseBootstrapReact.JsRESTful APIsPython

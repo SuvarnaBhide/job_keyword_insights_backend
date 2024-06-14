@@ -1,0 +1,37 @@
+About the job
+Together, we can beat cancer.
+
+At Varian, a Siemens Healthineers Company, we bring together the world's best talent to realize our vision of a world without fear of cancer. Together, we work passionately to develop and deliver easy-to-use, efficient oncology solutions.
+
+We are part of an incredible community of scientists, clinicians, developers, researchers, professionals, and skilled specialists pushing the boundaries of what’s possible, to improve people’s lives around the world. We embrace a culture of inclusivity in which the power and potential of every individual can be unleashed. We spark ideas that lead to positive impact and continued success.
+
+If you want to be part of this important mission, we want to hear from you.
+
+The Software Engineer will be responsible for developing software module and contributing to low level designs in the area of Interoperability Engineering. These applications are fully developed at the Pune R&D Center and are used globally in hospitals and cancer centers.
+
+Designs, develops, analyzes, troubleshoots and provides technical skills during research and/or product development.
+
+Position Duties
+
+Software design & development, writing unit test and integration test.
+Resolve technical issues within the assigned product.
+Detect report, investigate, analyze and fix product defects.
+Work in agile/scrum framework.
+
+Required
+
+Special Knowledge / Skills:
+
+0-3 Years of software development experience.
+Strong fundamentals of software engineering.
+Hands on experience in software development using agile/scrum framework.
+Strong fundamentals of software design (OOAD, Data Structure, UML etc.)
+Development skills in C#.NET, Java, Web API
+Experience working with source control and configuration management tools like TFS, Github
+Strong verbal and written communication skills.
+
+Varian is required to comply with all local and applicable regulations that may be associated with vaccine requirements for certain roles.
+
+Fighting cancer calls for big ideas.
+
+We envision a world without fear of cancer. Achieving this vision takes dedication and commitment from all of us, every single day. That's why we celebrate and value the distinctly beautiful and intersectional identities of each of our employees. We are a mirror of our patient-base, which allows us to innovate. Big ideas come from everywhere, and the best ideas are fostered by our unique individual experiences. At Varian, we encourage you to bring your whole self to work and believe your bold and authentic perspective will help to power more victories over cancer.

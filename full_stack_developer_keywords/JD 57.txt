@@ -1,0 +1,45 @@
+About the job
+This job is sourced from a job board. Learn More
+Experience: 1 to 2 Years
+
+Location:Bangalore 
+
+Job Description
+
+Python Developer with a minimum of 1 years of experience to design, develop and deploy web
+
+applications using flask/Django and React JS. The Candidate should have the knowledge and
+
+exposure to design and develop web applications.
+
+ Qualification- B.E,B. Tech
+
+Must Have
+
+Knowledge of python (Django/Flask) back end with knowledge of React JS to build the front-end
+
+interface
+
+Knowledge and understanding of PostgreSQL/MySQL or any other equivalent database
+
+Must have understanding of web application architecture and should be familiar with latest
+
+development practices
+
+Knowledge of Testing and debugging software applications with Python test framework tools like
+
+Robot, PyTest, PyUnit, etc.
+
+Knowledge of using GitHub or similar environment.
+
+Good communication skills
+
+Good To Have
+
+Knowledge of front-end interfaces using HTML, CSS would be an added advantage.
+
+Familiar with deployments using AWS, Azure be a plus.
+
+Knowledge micro-services architecture and containers
+
+Certification on coding using Python.

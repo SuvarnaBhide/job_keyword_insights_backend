@@ -1,0 +1,22 @@
+Job Description
+Futures First is hiring for the role of Full Stack Developer!
+
+Responsibilities of the Candidate:
+
+Develop databases from various sources including REST APIs and file systems using Python.
+Perform data cleaning, transformation, and manipulation to prepare raw data for analysis.
+Create interactive web applications and dashboards for data visualization and exploration.
+Design and implement both front-end and back-end components of web applications.
+Develop REST APIs to facilitate communication between the front-end and back-end systems.
+Optimize web application performance and user experience.
+Collaborate with cross-functional teams to understand requirements and deliver solutions that meet business needs.
+Requirements:
+
+Proficiency in Python programming language
+Experience with data manipulation libraries
+Familiarity with data visualization tools
+Strong understanding of front-end technologies including Angular/React JS, HTML & CSS
+Experience in developing REST APIs using Flask or similar frameworks
+Knowledge of database management systems
+Ability to work independently and collaboratively in a fast-paced environment
+Excellent problem-solving, communication and presentation skills

@@ -1,0 +1,28 @@
+About the job
+Our client seeks a highly skilled and motivated Software Developer to join their dynamic team. As a Software Developer, you will be responsible for designing, developing, testing, and implementing software solutions to meet our clients’ needs. You will collaborate with cross-functional teams to understand requirements, propose innovative solutions, and contribute to the full software development lifecycle. The ideal candidate should have a strong background in software development, proficiency in programming languages, excellent problem-solving skills, and a passion for continuous learning, development, and improvement.
+
+
+Roles & Responsibilities:
+
+· Develop high-quality software solutions that meet project requirements and deadlines.
+· Collaborate with product managers, designers, and other stakeholders to understand and translate project needs into technical specifications.
+· Design, code, test, debug, and deploy software applications using various programming languages and technologies.
+· Participate in code reviews to ensure code quality, consistency, and best practices.
+· Troubleshoot and resolve software defects and technical issues.
+· Stay current with emerging technologies and industry trends to enhance skills and improve software development processes.
+· Document software designs, architecture, and processes for future reference and knowledge sharing.
+· Contribute to continuously improving team software development methodologies, tools, and practices.
+
+
+Requirements:
+
+· Bachelor’s degree in computer science, Software Engineering, or related field.
+· Proven experience as a Software Developer or Software Engineer, with a strong portfolio of completed projects.
+· Proficiency in programming languages such as Java, Python, C++, or JavaScript.
+· Experience with software development frameworks and tools (e.g., Spring, React, Angular, Node.js).
+· Knowledge of database systems (SQL, NoSQL) and experience with database design and implementation.
+· Familiarity with version control systems (e.g., Git) and agile software development methodologies.
+· Excellent problem-solving skills and attention to detail.
+· Strong communication and collaboration skills, with the ability to work effectively in a team environment.
+· Ability to adapt to changing priorities and work independently in a fast-paced environment.
+· Commitment to continuous learning and professional development in software development practices and technologies.

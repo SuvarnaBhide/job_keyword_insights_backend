@@ -1,0 +1,14 @@
+Job Description
+GE Digital is hiring for the role of Full Stack Developer!
+
+Responsibilities of the Candidate:
+
+Collaborate with system engineers, frontend developers and software developers to implement solutions that are aligned with and extend shared platforms and solutions.
+Apply principles of SDLC and methodologies like Lean/Agile/XP, CI, Software and Product Security, Scalability, Documentation Practices, refactoring and Testing Techniques.
+Write codes that meet standards and deliver desired functionality using the technology selected for the project.
+Build features such as web services and Queries on existing tables.
+Understand performance parameters and assess application performance.
+Work on core data structures and algorithms and implement them using the language of choice.
+Requirements:
+
+Fresher can apply

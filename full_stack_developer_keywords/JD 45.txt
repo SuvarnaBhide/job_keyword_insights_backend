@@ -1,0 +1,36 @@
+Job Description
+Codingmart Technologies is hiring for the role of Full Stack Developer!
+
+Requirements of the Candidate:
+
+Develop software using Java, and object-oriented databases
+Build RESTful web services and design interfaces between UI and REST service
+Create data-grid-centric UI for optimal performance
+Participate fully in the agile software development process, adhering to best practices
+Write high-quality, clean code using test-driven development and constant refactoring
+Work on various technologies and components, including user interfaces, services, and databases
+Act as a generalizing specialist, contributing to architectural decisions and defining the component architecture
+Ensure the reliability and ease of support for the software you develop in production
+Design and implement front-end and back-end solutions, ensuring responsiveness and optimal user experience
+Contribute to building, testing, and releasing software within short lead times, following a highly automated Continuous Delivery pipeline
+Foster a culture of learning and continuous improvement within the team and organization
+Develop front-end website architecture and design user interactions on web pages
+Develop back-end website applications and optimize them for cross-platform and mobile responsiveness
+See projects through from conception to the finished product
+Design and develop APIs that meet technical and consumer needs
+Requirements:
+
+In-depth knowledge and hands-on experience with Java and Ul stack
+Proficient experience with web technologies, frameworks, and tools like HTML, CSS, JavaScript, React, XML, jQuery, Spring, etc
+Extensive experience with Spring and Spring Boot frameworks
+Well-versed in State Management, Redux, Reducers, JavaScript, and CSS in ReactJS/UI
+Practical experience in test-driven development and constant refactoring within a continuous integration environment
+Experience in, SQL and relational databases
+Agile team experience, practicing Scrum, Kanban, or XP
+Experience in performing Functional Analysis is highly desirable
+Excellent communication and teamwork skills
+Ownership mindset focused on driving the team toward successful delivery
+Performance and productivity orientation, committed to high-quality results
+Strong analytical and problem-solving abilities
+Proactive, flexible, and able to think outside the box to resolve problems
+Efficient, well-organized, detail-oriented, and a clear communicator

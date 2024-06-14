@@ -1,0 +1,41 @@
+About the job
+Overview
+
+The Fullstack Developer (Entry Level 2024 Batch) plays a pivotal role in our organization, being responsible for developing and designing front-end and back-end architecture, ensuring the responsiveness of applications, and collaborating with the development team to meet specific project goals and maintain high-quality code.
+
+Key Responsibilities
+
+Developing front end website architecture.
+Designing user interactions on web pages.
+Developing back-end website applications.
+Creating servers and databases for functionality.
+Ensuring cross-platform optimization for mobile phones.
+Ensuring responsiveness of applications.
+Working alongside graphic designers for web design features.
+Seeing through a project from conception to finished product.
+Designing and developing APIs.
+Meeting both technical and consumer needs.
+Staying abreast of developments in web applications and programming languages.
+Ensuring the user experience determines design choices.
+Developing features to enhance the user experience.
+Striving for high-quality, testable, and maintainable software.
+Collaborating with multi-disciplinary team members.
+
+Required Qualifications
+
+Bachelor’s degree in Computer Science or a related field.
+Understanding of server-side and front-end programming languages such as HTML, JavaScript, CSS, and Node.js.
+Familiarity with JavaScript frameworks such as React.js.
+Knowledge of code versioning tools, such as Git.
+Understanding of databases and SQL.
+Basic understanding of SEO principles.
+Experience with cloud technologies.
+Ability to work in a team environment and communicate effectively.
+Strong problem-solving skills and attention to detail.
+Ability to thrive in a fast-paced, dynamic environment.
+Willingness to learn and adapt to new technologies.
+Understanding of Agile development methodologies.
+Experience with web services and RESTful APIs.
+Knowledge of modern authorization mechanisms, such as JSON Web Token.
+
+Skills: javascript,html,css,node.js,react.js,web,architecture,code,databases,design,features

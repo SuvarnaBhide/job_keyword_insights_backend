@@ -1,0 +1,42 @@
+About:
+
+Join a dynamic company that is growing at an explosive rate. Supply Wisdom’s patented solution is transforming the way supply chain, procurement and third-party risk leaders manage risks and operational resilience. Our market-leading risk intelligence solution leverages the latest advancements in AI, Machine Learning, and data science to deliver the real-time early-warning risk intelligence that enterprises critically need now to secure their supply chains, prevent disruptions, and ensure operational resiliency. The demand for our solution is stronger than ever, and our team must expand to keep up.
+
+Objective: We are looking for an Individual Contributor to work as Full Stack Developer to produce scalable software solutions. You’ll be part of a cross-functional team responsible for the full software development life cycle, from conception to deployment.
+
+As a Full Stack Developer, you should be comfortable with front-end and back-end coding languages, development frameworks, and third-party libraries. You should also be a team player with a knack for visual design and utility.
+
+You should be familiar with Agile methodologies using Scrum and Kanban practice.
+
+Responsibilities of the Candidate:
+
+Work with the development team and product manager to ideate software solutions.
+Design client-side and server-side architecture.
+Work with data scientists and analysts to improve software using RPA and AI/ML techniques.
+Build the front end of applications through appealing visual design.
+Develop and manage well-functioning databases and applications.
+Write effective REST APIs.
+Test software to ensure responsiveness and efficiency.
+Troubleshoot, debug, and upgrade software.
+Create security and data protection settings.
+Build features and applications with a mobile responsive design.
+Write technical documentation.
+Integrate third-party libraries for product enhancement.
+Key Skills and Experience:  
+
+Degree in Computer Science with development experience in building cloud-native SaaS applications that are scalable.
+4+ years of experience working with Python programming.
+Strong organizational and project management skills using agile methodologies.
+Familiarity with database technology such as Postgres.
+Proficiency with fundamental front-end languages such as HTML5, CSS3 and JavaScript, ES6.
+Experience in converting monolithic frameworks into microservices.
+Hands-on experience with code conversion tools like Git.
+Hands-on experience with AWS services and Nginx Web Server.
+Hands-on experience with Message Brokers RabbitMQ, Event Handling, and synchronization.
+Proficiency and experience in refactoring the monolithic application to microservices architecture.
+Familiarity with CI/CD pipeline using Jenkins and docker.
+Knowledge of SSO implementation is desirable.
+Familiarity with using Gitlab, Jira, and Confluence.
+Excellent written and verbal communication skills.
+Good problem-solving skills.
+Attention to detail.

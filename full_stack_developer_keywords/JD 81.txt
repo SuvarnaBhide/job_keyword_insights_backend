@@ -1,0 +1,25 @@
+About the job
+Job Description
+
+The candidate must possess in-depth functional knowledge of the process area and apply it to operational scenarios to provide effective solutions. He/she must be able to identify discrepancies and propose optimal solutions by using a logical, systematic, and sequential methodology. It is vital to be open-minded towards inputs and views from team members and to lead effectively, control, and motivate groups toward company objectives. Additionally, he/she must be self-directed, and proactive, and seize every opportunity to meet internal and external customer needs and achieve customer satisfaction by effectively auditing processes, implementing best practices and process improvements, and utilizing the frameworks and tools available. Goals and thoughts must be clearly and concisely articulated and conveyed, verbally and in writing, to clients, colleagues, subordinates, and supervisors.
+
+Associate Process Manager Role And Responsibilities
+
+ Ensure developed pages are responsive, W3C compliant, and are cross-browser compatible, provide full proof suggestions on optimization and best practices 
+ Develop and test pages across multiple browsers, platforms, and devices 
+ Sound knowledge of developing Industry standard responsive Emailers / Landing Pages and test across email clients 
+ Strong knowledge of understanding of good practices in emailer development. Able to analyze requests correctly 
+ Experience in doing code review/ peer audit/ code documentation 
+ Ability to work independently and in a team environment 
+ Strong analytical, troubleshooting, and problem-solving skills 
+ Excellent written and verbal communication skills. Able to communicate seamlessly with the Client 
+ Comfortable working in a fast-paced environment on multiple tools and technologies 
+ HTML5, CSS3, jQuery, JavaScript, Bootstrap and Responsive development, email development 
+ Client communications on day to day basis 
+ Strong project management skills needed for APM/SA would be an added advantage 
+ Outsourcing/offshoring experience is a plus 
+
+Technical And Functional Skills
+
+ Bachelor’s Degree with minimum 2 years experience in Angular JS, Node.JS, React.JS mandatory – APM 
+ Strong working knowledge of technologies such as HTML5, CSS3, jQuery, JavaScript, Bootstrap and Responsive development

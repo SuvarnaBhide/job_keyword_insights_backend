@@ -1,0 +1,23 @@
+Job Description
+Inputzero Technologies is hiring for the role of Full Stack Developer!
+
+Responsibilities of the Candidate:
+
+Program scalable and clean code
+Full-cycle application development
+Design product development strategies
+Select the most suitable technologies
+Development of databases
+Product optimization
+Product demonstration
+Requirements:
+
+Experience with Web fundamentals like HTML5, JavaScript, CSS3, and JSP, etc
+Good understanding of Object-Oriented JavaScript (OOJS), ES6
+Hands-on experience in Web app development using modern client-side MVC frameworks using ReactJS
+Thorough understanding of ReactJs and its core principles
+Experience with common front-end development tools such as Babel, Webpack, NPM, etc
+Experience developing custom reusable components in ReactJS
+Proficient understanding of unit testing using JavaScript test frameworks like JEST
+Experience integrating REST APIs
+Ability to understand business requirements and translate them into technical requirements

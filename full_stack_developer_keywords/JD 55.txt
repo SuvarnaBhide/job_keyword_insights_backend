@@ -1,0 +1,43 @@
+About the job
+Company Description
+Oaza Energy is a company based in Pune, India that specializes in simplifying the EV charging experience. Our Oaza Energy Discovery app lists all public and private charging points across India for 2, 3, and 4 wheelers, as well as battery swapping stations. With our app, users can view details and availability of charging points, plan EV journeys, and explore longer routes. We also offer a Charging Station Management system for apartments, hotels, offices, and EV fleet management operators to effectively manage their charging stations.
+
+
+Job description
+
+ As a Senior Full Stack Developer/Engineering Lead you will be directly reporting to the CTO and Founder, the Senior Full Stack Developer/Engineering Lead will be part of a fun, diverse and dynamic team and will play a crucial role in developing cutting edge solutions that continue to revolutionise the EV Charging industry. The ideal candidate will be responsible for architecting, designing, and developing high-quality applications. They will also be responsible for designing and implementing testable and scalable code.
+
+
+Roles and Responsibilities
+Responsible for architecting and designing applications.
+Responsible for Integration of user-facing elements developed by front-end developers with server-side logic
+Writing reusable, testable, and efficient code
+Design and implementation of low-latency, high-availability, and performant applications
+Implementation of security and data protection
+Integration of data storage solutions using mongoDB, MySql, etc
+100% development front and back-end Programming
+Should have experience Microservices , API' Build, Web services
+
+
+Required Technical and Professional Expertise
+Must have overall 1+years of industry experience
+Good working experience in JavaScript, typescript, React
+Should have Knowledge of Node.js and frameworks express js etc.
+Good understanding of server-side templating languages Jade, ejs etc
+Good understanding of front-end technologies, such as HTML5, and CSS3
+Understanding accessibility and security compliance.
+User authentication and authorization between multiple systems, servers, and environments
+Integration of multiple data sources and databases into one system
+Understanding fundamental design principles behind a scalable application
+Understanding differences between multiple delivery platforms, such as mobile vs. desktop, and optimizing output to match the specific platform
+Creating database schemas that represent and support business processes
+Implementing automated testing platforms and unit tests
+Proficient understanding of code versioning tools, such as Git
+
+
+This is an office-based role out of Pune (Hybrid working allowed).
+Excellent Salary offerings. based on experience.
+
+
+Industry
+Technology, Information and Internet

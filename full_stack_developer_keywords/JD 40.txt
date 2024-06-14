@@ -1,0 +1,27 @@
+Job Description
+Novisync is hiring for the role of Full Stack Developer!
+
+Responsibilities of the Candidate:
+
+Maintain existing React systems, including fixing bugs
+Design and develop new custom components to meet project requirements
+Install and configure server environments for React deployments
+Maintain and update project dependencies as well as fix any conflicts
+Work with other JavaScript developers and software engineers to develop front-end and back-end architecture that’s well structured and flexible, along with the APIs to support it
+Assist team members in architectural compliance, functional accuracy validation, and adherence to appropriate industry standards
+Collaborate with project managers, senior developers, and business partners for work planning, sharing new ideas, code demonstrations, troubleshooting, and bug fixing
+Requirements:
+
+Bachelor’s degree in computer science, software development, engineering, or a related technical field
+Proficient with the latest versions of ECMAScript (JavaScript) as well as HTML and CSS
+Vast experience in developing web-based UI using JavaScript, React.js, and/or Typescript
+Knowledge of React and common tools used in the wider React ecosystem, such as Node.js and npm
+Familiarity with common programming tools such as Redux, IDEs, RESTful APIs, Git repositories, TypeScript, version control software, and remote deployment tools
+An understanding of common programming paradigms and fundamental React principles, such as React components, hooks, and the React lifecycle
+Experience working with databases, such as MySQL and PostgressDB or MongoDB good to have
+Working knowledge of NoSQL databases is a plus
+Familiarity with web development frameworks, such as Express.js.
+Understanding of microservices architecture and DevOps principles.
+Excellent problem-solving and management skills.
+Assist team members in architectural compliance, functional accuracy validation, and adherence to appropriate industry standards
+Ability to stay up-to-date with frequently changing requirements of the project

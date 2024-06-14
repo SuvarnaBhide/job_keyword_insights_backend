@@ -1,0 +1,33 @@
+About the job
+
+Job description
+About the job
+
+
+About the jobAbout the jobPlease Note : We are looking developer who has knowledge on MERN stack also along with ASP.NET , 2023 pass out candidates can apply with 1 year experience. 
+
+
+
+About Company :
+Onelab Ventures ( Formally Turnkey Tech Solutions ) is a Pune-based B2B firm that helps startups in building tech products. We have been operating from the past 3 years and have served 50+ clients till date for Fintech, Ed-tech, E- commerce, Food delivery and Streaming apps.
+We help early stage startups in product development. We help them in building a Minimum Viable Product for their requirements and lead the product to go live in the market to gather early user responses. We help startups to achieve product - market fit by doing Agile development in the product to match users requirements.
+Our aim is to provide a hassle-free and comprehensive technology solution to our clients, enabling them to focus on their core business operations while we take care of the technical aspects.
+
+
+Responsibilities:
+Design and develop web applications using modern web technologies, including JavaScript, ReactJS, React Native, NodeJS, Express JS, and MongoDB while maintaining hands-on experience in web and/or mobile development to produce high-quality, functional applications.
+Demonstrate excellent problem-solving skills and attention to detail in all aspects of development.
+Stay up-to-date with emerging technologies and industry trends through continuous learning and research.
+Possess strong communication and interpersonal skills.
+
+
+Technical Skills
+Hands-on experience with the MERN stack and proficiency in NodeJS, ExpressJS and ReactJS
+Additionally, experience with mobile development using React Native is good to have
+Working knowledge of AWS services such as S3, EC2, and Lambda would be considered a plus.
+
+
+Qualifications
+BTech in Computer Science or IT or Master's degree in Computer Science
+1+ years of experience is full stack development
+Ability to work independently as well as in a team environment

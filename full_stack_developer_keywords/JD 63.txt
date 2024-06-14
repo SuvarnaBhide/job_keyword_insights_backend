@@ -1,0 +1,28 @@
+About the job
+Company Description
+ 
+ThreatXIntel is a startup cyber security company dedicated to protecting businesses and organizations from cyber threats. Our team of experienced professionals offers a range of services, including cloud security, web and mobile security testing, cloud security assessment, DevSecOps, and more.
+
+ 
+We understand that the world of cyber security can be complex and intimidating, especially for startups with limited resources. That's why we're committed to delivering customized, affordable solutions that meet the specific needs of our clients. We believe that every business, regardless of size, should have access to high-quality cyber security services to protect their digital assets.
+
+ 
+At ThreatXIntel, we take a proactive approach to security, continuously monitoring and testing our clients' digital environments to identify vulnerabilities before they can be exploited. Our mission is to provide exceptional cyber security services that give our clients peace of mind, so they can focus on growing their business.
+
+ 
+If you're a startup or small business looking for reliable, cost-effective cyber security solutions, look no further than ThreatXIntel. Contact us today to learn more about how we can help protect your digital assets.
+
+ Role Description
+ 
+This is a part-time remote role for a Freelance Full-Stack Developer - React/.NET Core. As a Freelance Full-Stack Developer, you will be responsible for developing and maintaining web applications using React and .NET Core. You will collaborate with cross-functional teams and follow best practices to ensure the scalability, security, and performance of the applications. This is an opportunity to work on exciting projects and contribute to the growth of our cyber security products.
+
+ Qualifications
+ 
+Strong proficiency in React, JavaScript, and HTML/CSS
+Experience with .NET Core, C#, and SQL
+Knowledge of front-end and back-end development best practices
+Experience with version control systems (e.g., Git)
+Ability to work independently and meet project deadlines
+Excellent problem-solving and debugging skills
+Good communication and collaboration skills
+Prior experience in web development or related roles is preferred

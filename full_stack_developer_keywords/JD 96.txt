@@ -1,0 +1,28 @@
+Job Description
+ITIO Innovaxe Private Limited is hiring for the role of Python Full Stack Developer!
+
+Responsibilities of the Candidate:
+
+Develop and Maintain Web Applications: Design, develop, and maintain scalable and high-performance web applications using Python and other technologies.
+Front-End Development: Create responsive and user-friendly interfaces using HTML, CSS, JavaScript, and modern front-end frameworks (e.g., React, Angular, Vue.js).
+Back-End Development: Build and maintain server-side logic, database structures, and APIs using Python frameworks such as Django or Flask.
+Database Management: Design, manage, and optimize databases (e.g., PostgreSQL, MySQL, MongoDB) to ensure seamless data flow and storage.
+Integration: Integrate third-party services and APIs as needed, ensuring seamless data exchange and functionality.
+Testing and Debugging: Perform thorough testing and debugging to ensure high-quality and bug-free software.
+Code Reviews: Participate in code reviews to maintain high code quality and share knowledge with team members.
+Documentation: Maintain clear and comprehensive documentation for all development processes, APIs, and systems.
+Collaboration: Work closely with cross-functional teams including product managers, designers, and other developers to deliver high-quality products.
+Requirements:
+
+Educational Background: Bachelor’s degree in Computer Science, Information Technology, or a related field
+Experience: Minimum 2 years of proven experience as a Full Stack Developer with a strong focus on Python development
+Technical Skills:
+Proficiency in front-end technologies: HTML, CSS, JavaScript, and modern JavaScript frameworks (React, Angular, or Vue.js)
+Strong expertise in back-end development using Python frameworks (Django, Flask)
+Experience with RESTful APIs and web services
+Knowledge of database management systems (PostgreSQL, MySQL, MongoDB)
+Familiarity with version control systems (Git)
+Understanding of server, network, and hosting environments
+Problem-solving: Excellent problem-solving skills and the ability to work independently and collaboratively
+Communication: Strong communication skills to effectively interact with team members and stakeholders
+Experience with cloud platforms (AWS, Azure, Google Cloud)

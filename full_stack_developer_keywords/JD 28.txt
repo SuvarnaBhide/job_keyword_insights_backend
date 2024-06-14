@@ -1,0 +1,30 @@
+ob Description
+Purecode.ai is hiring for the role of Full Stack Developer!
+
+About the Company:
+
+Please visit our website before applying and make sure you're a fit and understand what our product does!
+
+PureCode AI, headquartered in Austin, Texas, is actively looking for a remote Full Stack Developer to join our team. We specialize in cutting-edge Computer Vision & Artificial Intelligence technologies and have created a developer tool that instantly converts design images into fully functional, ready-to-use, ReactJS code. Additionally, we are advancing front-end software development by using AI models to generate UI components for engineers, resulting in significant time savings and reduced manual work.
+
+PureCode has recently secured $3 million USD in funding from a Silicon Valley venture capitalist, setting the stage for significant growth and innovation. We remain dedicated to revolutionizing software development through AI-powered solutions and invite you to join us on this journey toward a more efficient and innovative industry. Become a part of our team and help shape the future of software development.
+
+About PureCode AI:
+
+PureCode is a front-end developer tool where engineers can use text to describe generate, or customize software user interfaces - (and soon entire projects).
+Our goal is to build a must-use developer tool for front-end engineers to build web software 100x faster!
+Requirements:
+
+Previous start-up experience is required
+Excellent communication skills
+Problem-solving skills with a proactive nature
+Excellent interpersonal skills
+Meticulous attention to detail
+Impeccable organization skills
+Strong people skills
+Start-up mindset and flexibility – we are looking for someone who can come into the organization and improve the way we are doing things now. Not rewrite company processes with a lot of needless rules and requirements
+Benefits & Offerings:
+
+Competitive salary and benefits package
+Culture focused on talent development with biannual promotion cycles and company-sponsored certifications
+Opportunity to work with cutting-edge technologies

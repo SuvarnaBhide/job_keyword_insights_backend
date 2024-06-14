@@ -1,0 +1,18 @@
+ob Description
+Finflux is hiring for the role of a Full Stack Developer!
+
+Responsibilities of the Candidate:
+
+Build the next-gen digital financial solution.
+Requirements:
+
+Bachelor's degree in Computer Science, Engineering or a related subject
+Proven software development experience
+Proven 2+ working experience in full stack development and have developed at least one web application app
+Experience working with remote data via REST and JSON
+Experience with third-party libraries and APIs
+Working knowledge of the general mobile landscape, architectures, and emerging technologies
+Strong understanding of Java object-oriented programming
+Experience with web frameworks like AngularJS/Angular
+2+ years experience with consuming and building RESTfull APIs using JSON data and best practices related to their implementation
+Knowledge of relational databases like MySQL

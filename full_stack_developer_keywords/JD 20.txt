@@ -1,0 +1,44 @@
+Job description
+Roles and Responsibilities
+
+Maintenance of POS application:
+Maintenance work requires co-ordination with support team, understanding the issue and providing the resolutions for issues.
+Development of new features:
+Development work covers feature development and integration with other applications.
+Improving the application:
+Enhancements in the application with the latest technologies and trends.
+
+Desired Candidate Profile
+
+Experience 0 to 2 years
+BE/BTech in domains CSE, IT or ECE
+Clear understanding of Object Oriented Programming is required.
+Experience with DML commands for database is required.
+Experience with version control system/tool is required
+Understanding of software development cycle is required
+Understanding/experience with C++/Delphi/or any object oriented programming is advantageous
+Good analytical and problem-solving skills are required
+Fluency in English language for effective communication is required
+Aptitude and Attitude to learn and adapt as per the needs
+*Please mention the projects in the CV/Resume with detailed information to gain better insights to the profile
+
+
+Perks and Benefits
+
+Challenging tasks to add to the achievements and enhance skill sets
+Interaction with team members from different nations
+Pleasant working environment and well-equipped workplace
+Walkable distance from Metro station
+
+Role: Full Stack Developer
+Industry Type: Software Product
+Department: Engineering - Software & QA
+Employment Type: Full Time, Permanent
+Role Category: Software Development
+Education
+UG: B.Tech/B.E. in Electronics/Telecommunication, Computers
+PG: MCA in Computers
+Key Skills
+Skills highlighted with ‘‘ are preferred keyskills
+Software Development MethodologiesRDBMSObject Oriented Programming
+Software Development Life CycleC++Fullstack DevelopmentVersion ControlDelphiprogrammingcommunication skills

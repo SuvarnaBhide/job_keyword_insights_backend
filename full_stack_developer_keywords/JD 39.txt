@@ -1,0 +1,12 @@
+Job Description
+Techplek is hiring for the role of Full Stack Developer!
+
+Responsibilities of the Candidate:
+
+Focus on creating seamless user interfaces using React.js and building robust, scalable applications with Node.js.
+Collaborate on innovative projects and ensuring optimal performance and responsiveness of applications.
+Develop and implement user interfaces with React.js, designing and maintaining efficient, reusable, and reliable Node.js code, working with cross-functional teams to define, design, and deploy new features, and ensuring high performance, quality, and responsiveness in applications.
+Requirements :
+
+The requirements for this role include proven experience as a React Node.js Developer, a solid understanding of React.js and Node.js fundamentals, familiarity with RESTful APIs, and knowledge of modern authorization mechanisms such as JSON Web Token.
+You should also have strong proficiency in JavaScript, including experience with DOM manipulation and the JavaScript object model.

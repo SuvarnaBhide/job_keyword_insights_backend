@@ -1,0 +1,21 @@
+ob Description
+Vieg Services Pvt Ltd is hiring for the role of Full Stack Developer!
+
+Responsibilities of the Candidate:
+
+Design, develop, and maintain full-stack applications using React.js for front-end and .NET Core for back-end.
+Work closely with cross-functional teams to understand project requirements, collaborate on architectural decisions, and ensure seamless integration between front-end and back-end components.
+Write clean, scalable, and maintainable code while adhering to coding standards. Perform code reviews to ensure the quality and efficiency of the development process.
+Identify and troubleshoot issues, bugs, and performance bottlenecks across the entire application stack.
+Design and optimize database schemas, write efficient SQL queries and manage SQL Server databases.
+Utilize version control systems, particularly GitHub, to manage the codebase and facilitate collaboration among team members.
+Implement and manage application deployment processes, particularly on Openshift, ensuring reliability and scalability.
+Communicate and collaborate with team members in a remote work environment, demonstrating strong communication skills.
+Stay updated on industry trends, technologies, and best practices, and apply them to enhance the development process.
+Requirements:
+
+Bachelor’s or Master’s degree in Computer Science, Engineering, or a related field.
+Proven experience of 5+ years in full-stack development.
+Proficient in React.js, .NET Core, Openshift, GitHub, and SQL Server.
+Strong problem-solving skills and ability to work independently.
+Excellent communication and collaboration skills.

@@ -1,0 +1,6 @@
+About the job
+Design, develop, debug, and unit test software based on outlined business specifications
+Improve existing programs by analyzing and identifying areas for improvement
+Work with Business Analysts to ensure delivered code meets specifications based on functional/technical specifications.
+Participate in Agile routines: sprint planning, backlog grooming, daily scrums, etc.
+Collaborate to define, design, and accurately estimate time and resources for development initiatives.

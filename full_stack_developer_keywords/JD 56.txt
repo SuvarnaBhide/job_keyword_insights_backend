@@ -1,0 +1,42 @@
+About the job
+Overview
+
+The Junior Full Stack Developer plays a crucial role in our organization, contributing to the development, implementation, and maintenance of our web applications. They will work closely with senior developers to create efficient and user-friendly interfaces, troubleshoot and resolve software issues, and participate in the full software development lifecycle.
+
+Key Responsibilities
+
+Participate in the design and implementation of front-end and back-end solutions
+Develop and maintain web applications using HTML, CSS, and JavaScript
+Write and optimize SQL queries to manipulate data
+Collaborate with the design team to improve user experience
+Ensure the technical feasibility of UI/UX designs
+Assist in troubleshooting and resolving software issues
+Contribute to code reviews and documentation
+Stay updated on emerging technologies and best practices
+Work on both client and server-side development
+Deploy and maintain applications on cloud services
+Collaborate with cross-functional teams to define, design, and ship new features
+Follow agile methodologies and participate in sprint planning and estimation
+Test and debug software applications
+Assist in the evaluation and implementation of new technologies
+Provide technical support and training to internal teams
+
+Required Qualifications
+
+Bachelor's degree in Computer Science or a related field
+1-2 years of experience in web development
+Proficiency in HTML, CSS, and JavaScript
+Working knowledge of Node.js and React
+Experience with version control systems such as Git
+Strong understanding of database management and SQL
+Ability to troubleshoot and debug issues in a timely manner
+Familiarity with agile development methodologies
+Solid understanding of responsive design and cross-browser compatibility
+Excellent problem-solving and analytical abilities
+Ability to work independently and in a team environment
+Good communication and collaboration skills
+Understanding of software development lifecycle and best practices
+Proactive attitude towards learning and self-improvement
+Experience with cloud services and deployment is a plus
+
+Skills: html,javascript,node.js,react,sql,git

@@ -1,0 +1,57 @@
+About the job
+Who We’re Looking For
+
+Are you a software developer who takes pride in your craft and code quality? Do you advocate for eXtreme Programming principles and thrive in collaborative, high-performing teams? Join us at our DevOps-focused organization, where developers manage the entire release cycle. You will work across various programming languages, cloud infrastructure, and client communications, covering the full development lifecycle. If this excites you, keep reading! 
+
+
+
+Your Responsibilities
+
+Develop High-Quality Software: Create maintainable full-stack applications using NextJS/React and NestJS/NodeJS with TypeScript.
+Testing: Write comprehensive and effective tests to ensure the quality of the code.
+Maintain Clean Code: Produce clear, clean code that delivers consistent and reliable results.
+Frequent Releases: Implement small, frequent releases to promote continuous improvement and delivery.
+Collaborative Development: Work closely with team members through pair programming.
+Code Quality: Participate in code reviews to ensure high standards are maintained.
+Agile Development: Work within an Agile team to quickly roll out new features and fixes.
+Full Lifecycle Management: Handle all aspects of development, from understanding requirements and writing user stories to development, deployment, and troubleshooting.
+End-to-End Ownership: Manage the entire stack from front-end to back-end, including infrastructure and DevOps pipelines.
+Continuous Learning: Commit to ongoing learning and skill enhancement.
+
+
+Skills and Qualifications
+
+
+
+Essential Qualities:
+
+Integrity, strong character, diligence, and a commitment to excellence.
+
+
+Required Skills:
+
+NestJS / NodeJS
+NextJS / React
+TypeScript / JavaScript
+
+
+Preferred Skills:
+
+Jest/Mocha
+CI/CD
+AWS
+
+
+Core Values and Expertise:
+
+Self-Motivated Learner: Hands-on and committed to delivering high-quality code.
+Ownership: Dedicated to meeting development timelines and delivering results.
+Programming Proficiency: Strong in object-oriented programming, data structures, algorithms, and software engineering practices.
+Web Architecture: Expertise in web architecture, including design, development recommendations, and optimizing infrastructure.
+Agile/XP Methodologies: Experience with Agile and Extreme Programming methodologies in a continuous deployment environment.
+DevOps Enthusiast: Interested in mastering technologies like web server ecosystems, relational databases, TDD, CI tools (e.g., Jenkins, Hudson, Bamboo), web frameworks, and front-end technologies.
+Server Infrastructure: Knowledgeable about server configuration and deployment infrastructure.
+Source Control and Documentation: Proficient in using source control, bug tracking systems, and writing user stories and technical documentation.
+
+
+If you are passionate about joining a dynamic, forward-thinking team, we would love to hear from you!

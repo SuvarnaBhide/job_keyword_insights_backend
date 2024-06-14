@@ -1,0 +1,60 @@
+About the job
+Responsibilities
+
+Develop and maintain highly scalable, high performance and highly available microservices.
+
+Design, test and deploy new solutions as well as maintaining, integrating, and improving existing solutions.
+
+Write well tested, efficient, and readable code. The code should also be strongly structured with a view to reusability.
+
+Ensure that all deliverables follow best practices around source control, and can be incorporated into continuous integration and deployment patterns.
+
+Manage individual project priorities, deadlines, and deliverables.
+
+Participate in preparing business cases, requirements documents and product roadmaps for new concepts.
+
+Ensure that solutions are in line with the other deliverables of the workflow team and produce documentation so that others learn from and contribute to the work.
+
+Attend, and contribute to meetings as required.
+
+Should be able to write unit & integration test cases.
+
+Good communication.
+
+Skills
+
+Experience in building scalable software systems and services using Python
+
+Experience / Understanding on AWS services
+
+AWS solutions architect associate / associate developer certified
+
+Essential Skills And Experience
+
+AWS Lambda
+
+AWS Step Functions
+
+Amazon RDS / Amazon Aurora
+
+Python
+
+Terraform
+
+IAM (Identity Access and Management)
+
+VPC concepts- Security Group, Subnet concepts etc
+
+Amazon SQS
+
+Amazon SNS
+
+Bonus Skills And Experience
+
+AWS Glue
+
+Elastic Search
+
+Deploying application using serverless.com framework
+
+AWS ECS

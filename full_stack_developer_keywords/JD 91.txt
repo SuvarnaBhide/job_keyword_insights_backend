@@ -1,0 +1,22 @@
+bout the job
+
+
+Role Description
+
+This is a full-time on-site role located in Pune for a Full Stack Engineer (Nodejs+Angular+Weblogic). The Full Stack Engineer will develop and maintain web applications using Node.js, Angular, and Weblogic. They will collaborate with cross-functional teams to gather requirements, design, develop, and deploy web solutions, and troubleshoot issues as they arise.
+
+
+Qualifications
+
+Proficiency in Node.js, Angular, and Weblogic
+Experience in full-stack web application development
+Knowledge of front-end technologies like HTML, CSS, JavaScript, and frameworks like Angular (14) and Angular.Js.
+Strong Experience with microservices like JHipster ver 6.9, Java 11, Gateway, Registry, and Oauth.
+Experience working with deploying on Weblogic(12*)
+Working knowledge of Gitlab for code repositories, Postman, and SOAP for APIs.
+Knowledge of IDE: Eclipse, VSCode, InteliJJ
+Experience with database systems and SQL
+Understanding of software development principles and best practices
+Excellent problem-solving and debugging skills
+Strong communication and collaboration abilities
+Bachelor's degree in Computer Science or a related field
