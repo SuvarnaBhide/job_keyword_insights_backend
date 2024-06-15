@@ -20,6 +20,7 @@ Create security and data protection settings
 Build features and applications with a mobile responsive design
 Write technical documentation
 Work with data scientists and analysts to improve software
+
 Requirements:
 
 Degree in Computer Science, Statistics or a relevant field
