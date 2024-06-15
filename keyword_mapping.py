@@ -1,4 +1,6 @@
 import spacy
+import os
+import csv
 from collections import Counter
 from string import punctuation
 from keywords import full_stack_developer_keywords
@@ -32,11 +34,29 @@ def process_file(file_path, predefined_keywords):
     with open(file_path, 'r', encoding='utf-8') as file:
         text = file.read()
     extracted_keywords = extract_keywords(text)
-    print('Extracted keywords\n\n\n: ', extracted_keywords)
+    #print('Extracted keywords\n\n\n: ', extracted_keywords)
     mapped_keywords = map_keywords(extracted_keywords, predefined_keywords)
     return mapped_keywords
 
-file_path = "full_stack_developer_keywords\JD 80.txt"
+def store_all_files_in_csv(base_path, predefined_keywords, output_csv):
+    with open(output_csv, 'w', newline='', encoding='utf-8') as csv_file:
+        writer = csv.writer(csv_file)
+        writer.writerow(['Filename', 'Keywords'])
 
-mapped_keywords = process_file(file_path, full_stack_developer_keywords)
-print('\n\n\n\nMAPPED KEYWORDS:\n\n', mapped_keywords)
+        for filename in os.listdir(base_path):
+            if filename.endswith(".txt"):
+                file_path = os.path.join(base_path, filename)
+                if os.path.isfile(file_path):
+                    mapped_keywords = process_file(file_path, predefined_keywords)
+                    if mapped_keywords is not None:
+                        writer.writerow([filename, ', '.join(mapped_keywords)])
+                        print(f'\n\nMAPPED KEYWORDS for {filename}:\t\t', mapped_keywords)
+                else:
+                    print(f"File {file_path} does not exist.")
+
+# Main function
+if __name__ == '__main__':
+    base_path = "full_stack_developer_keywords"
+    output_csv = "full_stack_developer_keywords.csv"
+    predefined_keywords = full_stack_developer_keywords
+    store_all_files_in_csv(base_path, predefined_keywords, output_csv)
