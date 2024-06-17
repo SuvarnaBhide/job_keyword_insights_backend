@@ -1,6 +1,7 @@
 import spacy
 import os
 import csv
+import re
 from collections import Counter
 from string import punctuation
 
@@ -19,6 +20,23 @@ def csv_to_list(file_path):
                 result_list.append(row[0])
     
     return result_list
+
+def extract_job_details(job_description):
+    job_details = {}
+
+    # Extracting job title
+    match = re.search(r'Job Title:\s*(.*?)\n', job_description)
+    if match:
+        job_details['Job Title'] = match.group(1)
+
+    # Extracting company name
+    match = re.search(r'Company:\s*(.*?)\n', job_description)
+    if match:
+        job_details['Company'] = match.group(1)
+    
+    #print(f'Job Details: {job_details}')
+
+    return job_details
 
 # Function to extract keywords using TF-IDF
 def extract_keywords(text):
@@ -48,6 +66,8 @@ def process_file(file_path, predefined_keywords):
     with open(file_path, 'r', encoding='utf-8') as file:
         text = file.read()
     
+    job_details = extract_job_details(text) 
+    
     # Extract the keywords from Job Descriptions
     extracted_keywords = extract_keywords(text)
     #print('Extracted keywords\n\n\n: ', extracted_keywords)
@@ -55,22 +75,24 @@ def process_file(file_path, predefined_keywords):
     # Map extracted keywords to predefined keywords
     mapped_keywords = map_keywords(extracted_keywords, predefined_keywords)
 
-    return mapped_keywords
+    return {'job_details': job_details, 'mapped_keywords': mapped_keywords}
 
 # Function to store all files in CSV
 def store_all_files_in_csv(base_path, predefined_keywords, output_csv):
     with open(output_csv, 'w', newline='', encoding='utf-8') as csv_file:
         writer = csv.writer(csv_file)
-        writer.writerow(['Filename', 'Keywords']) # Write the column headers
+        writer.writerow(['Company', 'Job Title', 'Keywords', 'Filename']) # Write the column headers
 
         for filename in os.listdir(base_path):
             if filename.endswith(".txt"):
                 file_path = os.path.join(base_path, filename)
                 if os.path.isfile(file_path):
-                    # Store the mapped keywords in the output CSV
-                    mapped_keywords = process_file(file_path, predefined_keywords)
-                    if mapped_keywords is not None:
-                        writer.writerow([filename, ', '.join(mapped_keywords)])
+                    # Store the details in the output CSV
+                    job_details = process_file(file_path, predefined_keywords)['job_details']
+                    mapped_keywords = process_file(file_path, predefined_keywords)['mapped_keywords']
+                    if job_details and mapped_keywords:
+                        writer.writerow([job_details.get('Company', ''), job_details.get('Job Title', ''), ', '.join(mapped_keywords), filename])
+                        #writer.writerow([filename, ', '.join(mapped_keywords)])
                         #print(f'\n\nMAPPED KEYWORDS for {filename}:\t\t', mapped_keywords)
                 else:
                     print(f"File {file_path} does not exist.")
