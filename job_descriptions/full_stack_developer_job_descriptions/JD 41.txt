@@ -1,3 +1,6 @@
+Job Title: Full Stack Developer
+Company: AvenDATA GmbH
+
 Job Description
 AvenDATA GmbH is hiring for the role of Full Stack Developer (.Net and Angular)!
 

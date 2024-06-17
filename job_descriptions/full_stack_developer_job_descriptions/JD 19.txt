@@ -1,3 +1,7 @@
+Job Title: 
+Lead Full Stack Developer (Python + Angular/React)
+Company: Mantras2Success Consultants
+
 Job description
 Work with development teams and product managers to ideate software solutions
 Where applicable, design client-side and server-side architecture and build the front-end of applications through appealing visual design

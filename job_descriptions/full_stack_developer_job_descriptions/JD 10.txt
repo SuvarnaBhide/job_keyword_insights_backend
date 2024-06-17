@@ -1,3 +1,6 @@
+Job Title: Full Stack Developer
+Company: Wilatons
+
 Job description
 SmartHub application, ensuring high standards of code quality and system architecture.
 Design and implement solutions for both frontend and backend components using our tech stack: Node.js, React, TypeScript, and PostgreSQL.

@@ -1,4 +1,7 @@
-ob description
+Job Title: Python Developer
+Company: Nexpro247
+
+Job description
 - Candidate should have desire to learn new technologies.
 - Who can take responsibility & develop creative solution
 - Proficient knowledge in Python language

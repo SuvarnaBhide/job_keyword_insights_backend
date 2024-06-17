@@ -1,4 +1,8 @@
-ob description
+Job Title: 
+Engineering Trainee - Full Stack and AI
+Company: Berryworks
+
+Job description
 What will keep you engaged:
 
 Using your hands-on experience and understanding of object-oriented programming, data structures, algorithms, and web application development to build elegant solutions.

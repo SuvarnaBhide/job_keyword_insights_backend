@@ -1,4 +1,7 @@
-ob Description
+Job Title: Full Stack Developer
+Company: Finflux
+
+Job Description
 Finflux is hiring for the role of a Full Stack Developer!
 
 Responsibilities of the Candidate:
