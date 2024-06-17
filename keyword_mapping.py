@@ -66,6 +66,7 @@ def process_file(file_path, predefined_keywords):
     with open(file_path, 'r', encoding='utf-8') as file:
         text = file.read()
     
+    # Extract the job details from Job Descriptions
     job_details = extract_job_details(text) 
     
     # Extract the keywords from Job Descriptions
@@ -92,8 +93,6 @@ def store_all_files_in_csv(base_path, predefined_keywords, output_csv):
                     mapped_keywords = process_file(file_path, predefined_keywords)['mapped_keywords']
                     if job_details and mapped_keywords:
                         writer.writerow([job_details.get('Company', ''), job_details.get('Job Title', ''), ', '.join(mapped_keywords), filename])
-                        #writer.writerow([filename, ', '.join(mapped_keywords)])
-                        #print(f'\n\nMAPPED KEYWORDS for {filename}:\t\t', mapped_keywords)
                 else:
                     print(f"File {file_path} does not exist.")
 
