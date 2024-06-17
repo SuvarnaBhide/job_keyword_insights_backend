@@ -57,6 +57,6 @@ def store_all_files_in_csv(base_path, predefined_keywords, output_csv):
 # Main function
 if __name__ == '__main__':
     base_path = "full_stack_developer_keywords"
-    output_csv = "full_stack_developer_keywords.csv"
+    output_csv = "full_stack_developer_mapped_keywords.csv"
     predefined_keywords = full_stack_developer_keywords
     store_all_files_in_csv(base_path, predefined_keywords, output_csv)
