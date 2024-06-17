@@ -3,7 +3,7 @@ import os
 import csv
 from collections import Counter
 from string import punctuation
-from keywords import full_stack_developer_keywords
+#from keywords import full_stack_developer_keywords
 
 nlp = spacy.load("en_core_web_sm")
 
@@ -50,13 +50,27 @@ def store_all_files_in_csv(base_path, predefined_keywords, output_csv):
                     mapped_keywords = process_file(file_path, predefined_keywords)
                     if mapped_keywords is not None:
                         writer.writerow([filename, ', '.join(mapped_keywords)])
-                        print(f'\n\nMAPPED KEYWORDS for {filename}:\t\t', mapped_keywords)
+                        #print(f'\n\nMAPPED KEYWORDS for {filename}:\t\t', mapped_keywords)
                 else:
                     print(f"File {file_path} does not exist.")
 
+def csv_to_list(file_path):
+    result_list = []
+
+    with open(file_path, mode = 'r', encoding='utf-8') as file:
+        reader = csv.reader(file)
+        next(reader)  # Skip the first row (column header)
+        for row in reader:
+            if row: # To avoid adding empty rows
+                result_list.append(row[0])
+    
+    return result_list
+
 # Main function
 if __name__ == '__main__':
-    base_path = "full_stack_developer_job_descriptions"
-    output_csv = "full_stack_developer_mapped_keywords.csv"
-    predefined_keywords = full_stack_developer_keywords
+    keywords_filepath = "keywords\\full_stack_developer_keywords.csv"
+    base_path = "job_descriptions\\full_stack_developer_job_descriptions"
+    output_csv = "mapped_keywords_csvs\\full_stack_developer_mapped_keywords.csv"
+
+    predefined_keywords = csv_to_list(keywords_filepath)
     store_all_files_in_csv(base_path, predefined_keywords, output_csv)
