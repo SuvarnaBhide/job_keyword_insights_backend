@@ -1,3 +1,6 @@
+Job Title: Full Stack Developer
+Company: Oaza Energy
+
 About the job
 Company Description
 Oaza Energy is a company based in Pune, India that specializes in simplifying the EV charging experience. Our Oaza Energy Discovery app lists all public and private charging points across India for 2, 3, and 4 wheelers, as well as battery swapping stations. With our app, users can view details and availability of charging points, plan EV journeys, and explore longer routes. We also offer a Charging Station Management system for apartments, hotels, offices, and EV fleet management operators to effectively manage their charging stations.

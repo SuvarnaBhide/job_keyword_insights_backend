@@ -1,3 +1,6 @@
+Job Title: Full Stack Engineer
+Company: Ellty
+
 About the job
 Looking for a Full Stack developer who has experience in Frontend development using React/nextjs and backend with NestJS & MongoDB. 
 

@@ -1,3 +1,6 @@
+Job Title: Full Stack Web Developer - Python(Flask) with React/NodeJS
+Company: Dendrite.ai
+
 About the job
 We're looking for incredible Python developers for various roles open to people with 0-4+ years of experience interested in working with a US startup. If you are genuinely passionate about designing and building machine learning solutions using Python, you’re looking for a job where you can work from anywhere- and we mean anywhere and are excited about gaining experience in a Startup, then this is the position for you. Parents from all walks of life must choose between their careers and providing child care for their families. We want to change that by focusing on flexible hours, remote access, and creating a work/life balance. We take pride in making the ideal work environment for parents and those seeking a flexible lifestyle. Be it your next vacation spot or a farm out in the country; you can work remotely from your chosen location if you have working internet. No long commutes or rushing to in-person meetings. Ready to work hard and play harder? Let’s work together.
 

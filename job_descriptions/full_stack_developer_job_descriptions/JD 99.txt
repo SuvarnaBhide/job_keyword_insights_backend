@@ -1,4 +1,7 @@
-ob Description
+Job Title: Full Stack Developer
+Company: Unstop
+
+Job Description
 Unstop is looking for Frontend and Full Stack Developers. Developer responsibilities include building our application from concept all the way to completion from the bottom up, fashioning everything from the home page to site layout and function.
 
 Responsibilities of the Candidate:

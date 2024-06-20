@@ -1,4 +1,7 @@
-ob Description
+Job Title: Full Stack Developer
+Company: Honeywell
+
+Job Description
 Honeywell is hiring for the position of Full Stack Developer!
 
 Responsibilities of the Candidate:

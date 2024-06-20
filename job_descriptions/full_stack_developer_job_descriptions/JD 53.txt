@@ -1,3 +1,6 @@
+Job Title: Java and React JS Developer
+Company:Infosys
+
 About the job
 Primary skills:Java,Java->reactjs developer
 

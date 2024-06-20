@@ -1,3 +1,6 @@
+Job Title: Java Full Stack Developer
+Company: Confidential
+
 About the job
 Job Summary:
 We are seeking a highly skilled Full Stack Developer with a strong background in Java for backend development and expertise in React for the frontend. The ideal candidate will be responsible for developing and designing front-end web architecture, ensuring the responsiveness of applications, and collaborating with graphic designers on web design features.

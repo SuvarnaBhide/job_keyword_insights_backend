@@ -1,3 +1,6 @@
+Job Title: Full Stack Engineer
+Company: Unanime Planet
+
 About the job
 Job Description:
 We are looking for a motivated and skilled Full Stack Developer with at least 2 years of professional experience. The ideal candidate will have a strong understanding of both front-end and back-end technologies, and a passion for creating seamless user experiences and efficient server-side functionality.
