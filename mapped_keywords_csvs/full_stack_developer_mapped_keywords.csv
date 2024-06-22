@@ -1,90 +1,90 @@
 Company,Job Title,Keywords,Filename
-Bonami Software,React JS | JavaScript Developer,"node, typescript, html, java, css, react, redux, javascript, angular, json",JD 1.txt
-Wilatons,Full Stack Developer,"sql, typescript, python, react",JD 10.txt
-Saapttrini Software Solutions Pvt. Ltd.,Full Stack Developer,"mysql, jquery, java, xml, css, mongodb, react, javascript, sql",JD 100.txt
-Krishworks Technology And Research Labs,Fullstack Web Developer,"mysql, node, html, java, css, mongodb, python, react, javascript, sql, django",JD 12.txt
-HTD Careers,Software Engineer Trainee,"java, python",JD 13.txt
-Berryworks,Engineering Trainee - Full Stack and AI,"python, sql",JD 15.txt
-Godigi Infotech,Full Stack Developer,"html, git, css, github, python, ajax, sql, angular",JD 16.txt
-Mantras2Success Consultants,Lead Full Stack Developer (Python + Angular/React),"mysql, node, php, html, xml, java, git, sql, css, mongodb, react, javascript, python, angular, json",JD 19.txt
-Accenture,Application Developer,"mysql, html, jquery, java, css, javascript, sql",JD 2.txt
-SharpCode,Full Stack Developer,"php, html, java, git, css, javascript, python",JD 21.txt
-Chalanas,Full Stack Developer,"mysql, java, git, mongodb, react, javascript, sql",JD 22.txt
-Barclays,Full Stack Developer,"html5, html, java, react, javascript, sql, angular, springboot",JD 23.txt
-Digitech Sols,Full Stack Developer,"html, java, git, css, mongodb, javascript, angular",JD 24.txt
+Bonami Software,React JS | JavaScript Developer,"json, angular, typescript, java, javascript, css, react, html, redux, node",JD 1.txt
+Wilatons,Full Stack Developer,"typescript, sql, python, react",JD 10.txt
+Saapttrini Software Solutions Pvt. Ltd.,Full Stack Developer,"java, javascript, css, sql, mongodb, react, xml, jquery, mysql",JD 100.txt
+Krishworks Technology And Research Labs,Fullstack Web Developer,"java, javascript, css, sql, mongodb, react, html, django, python, mysql, node",JD 12.txt
+HTD Careers,Software Engineer Trainee,"python, java",JD 13.txt
+Berryworks,Engineering Trainee - Full Stack and AI,"sql, python",JD 15.txt
+Godigi Infotech,Full Stack Developer,"github, angular, css, sql, ajax, html, git, python",JD 16.txt
+Mantras2Success Consultants,Lead Full Stack Developer (Python + Angular/React),"json, angular, css, javascript, java, sql, mongodb, react, php, html, git, xml, python, mysql, node",JD 19.txt
+Accenture,Application Developer,"css, javascript, java, sql, html, jquery, mysql",JD 2.txt
+SharpCode,Full Stack Developer,"java, javascript, css, php, html, git, python",JD 21.txt
+Chalanas,Full Stack Developer,"java, javascript, sql, mongodb, react, git, mysql",JD 22.txt
+Barclays,Full Stack Developer,"angular, html5, java, javascript, springboot, sql, react, html",JD 23.txt
+Digitech Sols,Full Stack Developer,"angular, java, css, javascript, mongodb, html, git",JD 24.txt
 GE Digital,Full Stack Developer,git,JD 25.txt
 Intouch CX,Full Stack Developer,angular,JD 26.txt
-EthAum Venture Partners,Full Stack Developer,"html, java, git, css, javascript, angular",JD 27.txt
+EthAum Venture Partners,Full Stack Developer,"angular, css, javascript, java, html, git",JD 27.txt
 Purecode.ai,Full Stack Developer,react,JD 28.txt
-Finflux,Full Stack Developer,"mysql, java, git, sql, angular, json",JD 29.txt
-Futures First,Full Stack Developer,"flask, html, css, react, python, angular",JD 30.txt
-ZOG Global,Full Stack Developer,"mysql, flask, html, jquery, java, django, css, vue.js, react, javascript, sql, angular",JD 31.txt
-Inputzero Technologies,Full Stack Developer,"html5, html, java, css, react, javascript",JD 32.txt
-AvenDATA GmbH,Full Stack Developer,"mysql, html, java, git, css, javascript, sql, angular",JD 33.txt
-Hero MotoCorp Limited,Full Stack Developer,"mysql, node, redis, html, bootstrap, css, mongodb, react, sql",JD 34.txt
-Insight Gro,Full Stack Developer,"html, java, git, css, javascript, angular",JD 35.txt
-Consultbae,Full Stack Developer,"typescript, git, python, react, sql",JD 36.txt
-XynoSoft,Full Stack Developer,"mysql, php, java, css, javascript, sql, angular, laravel",JD 37.txt
-Emerson,Full Stack Developer,"bootstrap, java, sql, vue.js, react, javascript, python, angular",JD 38.txt
-Techplek,Full Stack Developer,"javascript, java, react, json",JD 39.txt
-Nexpro247,Python Developer,"html5, flask, html, java, sql, css, javascript, python, django",JD 4.txt
-Novisync,Full Stack Developer,"mysql, typescript, html, java, git, css, mongodb, react, redux, javascript, sql",JD 40.txt
-AvenDATA GmbH,Full Stack Developer,"mysql, html, java, git, css, javascript, sql, angular",JD 41.txt
-Agnito,Full Stack Developer,"php, html, java, javascript, sql, laravel",JD 42.txt
-Techies,Full Stack Developer,"mysql, php, node, java, sql, git, angular, mongodb, javascript, python, django, laravel",JD 43.txt
-APT Portfolio,Full Stack Developer,"mysql, java, sql, mongodb, react, javascript, python, django",JD 44.txt
-Codingmart Technologies,Full Stack Developer,"html, xml, java, jquery, css, react, redux, javascript, sql",JD 45.txt
-Inspiroz IT Services,Full Stack Developer,"mysql, jquery, java, xml, sql, css, mongodb, react, javascript, python, angular",JD 46.txt
-H K Infosoft,Full Stack Developer,"node, java, react, javascript, sql",JD 47.txt
-Vertoz,Full Stack Developer,"mysql, html5, typescript, html, bootstrap, java, git, jquery, css, javascript, sql, angular",JD 49.txt
-Ramboll,Full Stack Developer,"html, bootstrap, css, react, ajax",JD 50.txt
-EY,WAM-Fullstack Developer-Staff ,"typescript, java, git, github, react, javascript, sql, angular",JD 51.txt
-delaPlex,Full Stack Developer - React.js/Python,"typescript, java, git, css, react, javascript, python",JD 52.txt
-Infosys,Java and React JS Developer,"java, git, react",JD 53.txt
-delaPlex,Full Stack Developer (React and Python),"typescript, java, git, css, react, javascript, python",JD 54.txt
-Oaza Energy,Full Stack Developer,"mysql, html5, typescript, html, java, git, css, mongodb, react, javascript, sql",JD 55.txt
-ConsultBae Jobs,Junior Full Stack Developer,"html, java, git, css, react, javascript, sql",JD 56.txt
-Forward CV,Python Developer,"mysql, flask, html, git, css, github, python, react, sql, django",JD 57.txt
-SR Analytics,MERN/PERN Stack Developer - React.js/Node.js,"mysql, node, html, java, git, css, mongodb, react, javascript, sql",JD 58.txt
-STAND 8 Technology Services,Full Stack Developer,"typescript, java, git, react, redux, javascript, sql",JD 59.txt
-Primohunt Corporate,Full Stack Developer - JAVA / Angular,"html5, html, bootstrap, java, css, react, javascript, angular",JD 6.txt
-Cloudstaff,Full Stack Developer,"mysql, jquery, java, xml, sql, css, mongodb, react, javascript, python",JD 61.txt
-Onelab Ventures,SDE-1 (Mern Stack),"javascript, java, mongodb, react",JD 62.txt
-ThreatXIntel,Freelance Full-Stack Developer - React/.NET Core,"html, java, git, css, react, javascript, sql",JD 63.txt
+Finflux,Full Stack Developer,"json, angular, java, sql, git, mysql",JD 29.txt
+Futures First,Full Stack Developer,"angular, css, flask, react, html, python",JD 30.txt
+ZOG Global,Full Stack Developer,"vue.js, angular, java, javascript, css, flask, sql, react, html, django, jquery, mysql",JD 31.txt
+Inputzero Technologies,Full Stack Developer,"html5, css, javascript, java, react, html",JD 32.txt
+AvenDATA GmbH,Full Stack Developer,"angular, css, javascript, java, sql, html, git, mysql",JD 33.txt
+Hero MotoCorp Limited,Full Stack Developer,"bootstrap, css, sql, redis, mongodb, react, html, mysql, node",JD 34.txt
+Insight Gro,Full Stack Developer,"angular, css, javascript, java, html, git",JD 35.txt
+Consultbae,Full Stack Developer,"typescript, sql, react, git, python",JD 36.txt
+XynoSoft,Full Stack Developer,"angular, java, javascript, css, sql, laravel, php, mysql",JD 37.txt
+Emerson,Full Stack Developer,"bootstrap, vue.js, angular, java, javascript, sql, react, python",JD 38.txt
+Techplek,Full Stack Developer,"json, javascript, react, java",JD 39.txt
+Nexpro247,Python Developer,"html5, css, javascript, flask, sql, java, html, django, python",JD 4.txt
+Novisync,Full Stack Developer,"typescript, css, javascript, java, sql, mongodb, react, html, git, redux, mysql",JD 40.txt
+AvenDATA GmbH,Full Stack Developer,"angular, css, javascript, java, sql, html, git, mysql",JD 41.txt
+Agnito,Full Stack Developer,"java, javascript, sql, laravel, php, html",JD 42.txt
+Techies,Full Stack Developer,"angular, java, javascript, sql, laravel, mongodb, php, django, git, python, mysql, node",JD 43.txt
+APT Portfolio,Full Stack Developer,"java, javascript, sql, mongodb, react, django, python, mysql",JD 44.txt
+Codingmart Technologies,Full Stack Developer,"css, javascript, java, sql, react, redux, html, xml, jquery",JD 45.txt
+Inspiroz IT Services,Full Stack Developer,"angular, java, javascript, css, sql, mongodb, react, xml, python, jquery, mysql",JD 46.txt
+H K Infosoft,Full Stack Developer,"java, javascript, sql, react, node",JD 47.txt
+Vertoz,Full Stack Developer,"bootstrap, angular, typescript, java, javascript, html5, sql, css, html, git, jquery, mysql",JD 49.txt
+Ramboll,Full Stack Developer,"bootstrap, css, react, ajax, html",JD 50.txt
+EY,WAM-Fullstack Developer-Staff ,"angular, typescript, java, javascript, sql, react, git, github",JD 51.txt
+delaPlex,Full Stack Developer - React.js/Python,"typescript, css, javascript, java, react, git, python",JD 52.txt
+Infosys,Java and React JS Developer,"git, react, java",JD 53.txt
+delaPlex,Full Stack Developer (React and Python),"typescript, css, javascript, java, react, git, python",JD 54.txt
+Oaza Energy,Full Stack Developer,"html5, typescript, java, javascript, css, sql, mongodb, react, html, git, mysql",JD 55.txt
+ConsultBae Jobs,Junior Full Stack Developer,"java, javascript, css, sql, react, html, git",JD 56.txt
+Forward CV,Python Developer,"github, css, flask, sql, react, html, django, git, python, mysql",JD 57.txt
+SR Analytics,MERN/PERN Stack Developer - React.js/Node.js,"java, javascript, css, sql, mongodb, react, html, git, mysql, node",JD 58.txt
+STAND 8 Technology Services,Full Stack Developer,"typescript, java, javascript, sql, react, git, redux",JD 59.txt
+Primohunt Corporate,Full Stack Developer - JAVA / Angular,"bootstrap, html5, angular, java, css, javascript, react, html",JD 6.txt
+Cloudstaff,Full Stack Developer,"java, javascript, css, sql, mongodb, react, xml, python, jquery, mysql",JD 61.txt
+Onelab Ventures,SDE-1 (Mern Stack),"javascript, mongodb, react, java",JD 62.txt
+ThreatXIntel,Freelance Full-Stack Developer - React/.NET Core,"java, javascript, css, sql, react, html, git",JD 63.txt
 Efficient,Full Stack Developer,git,JD 64.txt
-Unanime Planet,Full Stack Engineer,"mysql, php, html, java, sql, git, css, mongodb, vue.js, react, javascript, python, angular",JD 65.txt
-Eshcol Global Services Private Limited,Software Developer,"java, sql, git, react, javascript, python, angular",JD 66.txt
-Infosys,Node JS Developer,"node, git, react",JD 67.txt
-Infosys,React.JS Developer,"typescript, html, java, css, react, redux, javascript",JD 68.txt
-Varian,Software Engineer,"java, git, github",JD 69.txt
-Accenture,Application Developer,"mysql, html, java, sql, javascript, python",JD 7.txt
+Unanime Planet,Full Stack Engineer,"vue.js, angular, java, javascript, css, sql, mongodb, react, php, html, git, python, mysql",JD 65.txt
+Eshcol Global Services Private Limited,Software Developer,"angular, java, javascript, sql, react, git, python",JD 66.txt
+Infosys,Node JS Developer,"git, react, node",JD 67.txt
+Infosys,React.JS Developer,"typescript, css, javascript, java, react, html, redux",JD 68.txt
+Varian,Software Engineer,"github, git, java",JD 69.txt
+Accenture,Application Developer,"java, javascript, sql, html, python, mysql",JD 7.txt
 uParcel,Full Stack Engineer,"http, react",JD 70.txt
-Dendrite.ai,Full Stack Web Developer - Python(Flask) with React/NodeJS,"node, flask, git, github, python, react, sql",JD 71.txt
-Ellenox,Full Stack Engineer,"mysql, git, mongodb, python, sql, angular",JD 72.txt
-Community Brands,Software Developer,"bitbucket, git, http",JD 73.txt
-TIGI HR,Full Stack Engineer,"javascript, java, typescript, react",JD 74.txt
-METAVERSE VENTURES PRIVATE LIMITED,Full Stack Developer,"node, typescript, html, java, git, mongodb, redux, javascript",JD 75.txt
-Mastercard,Software Engineer II,"sql, java, git, redis",JD 76.txt
+Dendrite.ai,Full Stack Web Developer - Python(Flask) with React/NodeJS,"github, flask, sql, react, git, python, node",JD 71.txt
+Ellenox,Full Stack Engineer,"angular, sql, mongodb, git, python, mysql",JD 72.txt
+Community Brands,Software Developer,"http, bitbucket, git",JD 73.txt
+TIGI HR,Full Stack Engineer,"javascript, typescript, react, java",JD 74.txt
+METAVERSE VENTURES PRIVATE LIMITED,Full Stack Developer,"typescript, java, javascript, mongodb, html, git, redux, node",JD 75.txt
+Mastercard,Software Engineer II,"sql, redis, git, java",JD 76.txt
 Ellty,Full Stack Engineer,"mongodb, react",JD 77.txt
-QBH Solution Pvt. Ltd. (QBH SOFT),Angular & Nest JS Full Stack Developer,"typescript, html, java, css, javascript, angular",JD 78.txt
-Kezan Consulting,Java Full Stack Developer,"node, css, github, sql, typescript, flask, html, java, mongodb, vue.js, react, mysql, xml, jquery, git, angular, php, javascript, python, django",JD 8.txt
-IntegriChain,Software Engineer,"flask, sql, django, react, python, angular",JD 80.txt
-eClerx,Associate Process Manager - Web Developer,"html5, html, jquery, java, bootstrap, css, javascript, angular",JD 81.txt
-ePiphany AI,Full Stack Developer,"typescript, redis, java, css, javascript",JD 82.txt
-Nidish,Full Stack Developer (Flutter + Node.js),"html5, node, html, css, react",JD 83.txt
-Confidential,Java Full Stack Developer,"html5, html, java, git, css, react, redux, javascript, json",JD 84.txt
+QBH Solution Pvt. Ltd. (QBH SOFT),Angular & Nest JS Full Stack Developer,"angular, typescript, css, javascript, java, html",JD 78.txt
+Kezan Consulting,Java Full Stack Developer,"css, html, git, python, node, vue.js, mongodb, django, angular, javascript, react, php, xml, mysql, typescript, java, flask, sql, github, jquery",JD 8.txt
+IntegriChain,Software Engineer,"angular, flask, sql, react, django, python",JD 80.txt
+eClerx,Associate Process Manager - Web Developer,"bootstrap, html5, angular, css, javascript, java, html, jquery",JD 81.txt
+ePiphany AI,Full Stack Developer,"typescript, java, javascript, css, redis",JD 82.txt
+Nidish,Full Stack Developer (Flutter + Node.js),"html5, css, react, html, node",JD 83.txt
+Confidential,Java Full Stack Developer,"json, html5, css, java, javascript, react, html, git, redux",JD 84.txt
 Informica Solutions ,AWS developer + python,"python, java",JD 85.txt
-Sparkmetrics Solutions ,Full Stack Developer,"html, java, git, css, javascript, sql, json",JD 86.txt
-ThreatXIntel,Full Stack Developer - React/.NET Core,"html, java, git, css, react, javascript, sql",JD 87.txt
-ThreatXIntel,Full Stack Developer - React/.NET Core,"mysql, php, html, java, sql, git, css, mongodb, vue.js, react, javascript, python, angular",JD 88.txt
+Sparkmetrics Solutions ,Full Stack Developer,"json, css, javascript, java, sql, html, git",JD 86.txt
+ThreatXIntel,Full Stack Developer - React/.NET Core,"java, javascript, css, sql, react, html, git",JD 87.txt
+ThreatXIntel,Full Stack Developer - React/.NET Core,"vue.js, angular, java, javascript, css, sql, mongodb, react, php, html, git, python, mysql",JD 88.txt
 VRWorld,Full Stack Developer,git,JD 89.txt
-Accenture,Application Developer,"java, sql, html",JD 9.txt
-TIGI HR,Full Stack Engineer,"javascript, java, typescript, react",JD 90.txt
-r3 Consultant,Full Stack Engineer (Nodejs+Angular+Weblogic),"node, html, java, git, css, javascript, sql, angular",JD 91.txt
-Supply Wisdom,Full Stack Developer,"html5, html, java, git, css, javascript, python",JD 92.txt
+Accenture,Application Developer,"sql, html, java",JD 9.txt
+TIGI HR,Full Stack Engineer,"javascript, typescript, react, java",JD 90.txt
+r3 Consultant,Full Stack Engineer (Nodejs+Angular+Weblogic),"angular, css, javascript, java, sql, html, git, node",JD 91.txt
+Supply Wisdom,Full Stack Developer,"html5, css, javascript, java, html, git, python",JD 92.txt
 Shreeji Enterprise,Full Stack Developer,"sql, angular",JD 93.txt
-Findoc,Full Stack Developer,"html, java, sql, css, javascript, python, django",JD 94.txt
-Vision Mechatronics,Full Stack Developer,"mysql, flask, html, java, sql, css, mongodb, react, javascript, python, angular",JD 95.txt
-ITIO Innovaxe Private Limited,Python Full Stack Developer,"mysql, flask, html, java, django, sql, css, git, mongodb, vue.js, react, javascript, python, angular",JD 96.txt
-Vieg Services Pvt Ltd,Full Stack Developer,"sql, git, github",JD 97.txt
-Unstop,Full Stack Developer,"mysql, php, sql, angular, laravel",JD 99.txt
+Findoc,Full Stack Developer,"css, javascript, java, sql, html, django, python",JD 94.txt
+Vision Mechatronics,Full Stack Developer,"angular, java, javascript, css, flask, sql, mongodb, react, html, python, mysql",JD 95.txt
+ITIO Innovaxe Private Limited,Python Full Stack Developer,"vue.js, angular, java, javascript, css, flask, sql, mongodb, react, html, django, git, python, mysql",JD 96.txt
+Vieg Services Pvt Ltd,Full Stack Developer,"sql, github, git",JD 97.txt
+Unstop,Full Stack Developer,"angular, sql, laravel, php, mysql",JD 99.txt
