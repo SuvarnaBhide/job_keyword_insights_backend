@@ -4,7 +4,7 @@ import csv
 import os
 
 app = Flask(__name__)
-CORS(app, resources={r"/*": {"origins": ["https://jobkeywordinsights-1bb99.web.app/", "http://localhost:3000"]}})
+CORS(app)
 
 
 # Load keyword counts from keyword_counts.csv
