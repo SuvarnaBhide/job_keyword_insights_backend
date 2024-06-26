@@ -1,10 +1,8 @@
 from flask import Flask, jsonify, abort
-from flask_cors import CORS
 import csv
 import os
 
 app = Flask(__name__)
-from flask_cors import CORS
 
 # Load keyword counts from keyword_counts.csv
 def load_keyword_counts(keyword_count_csv):
