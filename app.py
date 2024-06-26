@@ -1,8 +1,11 @@
 from flask import Flask, jsonify, abort
+from flask_cors import CORS
 import csv
 import os
 
 app = Flask(__name__)
+CORS(app, resources={r"/*": {"origins": ["https://jobkeywordinsights-1bb99.web.app/", "http://localhost:3000"]}})
+
 
 # Load keyword counts from keyword_counts.csv
 def load_keyword_counts(keyword_count_csv):
