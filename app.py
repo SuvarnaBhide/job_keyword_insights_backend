@@ -1,16 +1,18 @@
-from flask import Flask, jsonify, request, abort
+from flask import Flask, jsonify, abort
+from flask_cors import CORS
 import csv
 import os
 
 app = Flask(__name__)
+from flask_cors import CORS
 
 # Load keyword counts from keyword_counts.csv
 def load_keyword_counts(keyword_count_csv):
-    keyword_counts = {}
+    keyword_counts = []
     with open(keyword_count_csv, 'r', encoding='utf-8') as file:
         reader = csv.DictReader(file)
         for row in reader:
-            keyword_counts[row['Keyword']] = int(row['Count'])
+            keyword_counts.append(row)
     return keyword_counts
 
 # Load keyword-specific data from corresponding CSV
@@ -37,10 +39,10 @@ keyword_counts = load_keyword_counts(keyword_count_csv)
 def get_keyword_counts():
     return jsonify(keyword_counts)
 
-# @app.route('/api/keyword/<keyword>', methods=['GET'])
-# def get_keyword_data(keyword):
-#     keyword_data = load_keyword_data(keyword, keyword_output_dir)
-#     return jsonify(keyword_data)
+@app.route('/api/keyword/<keyword>', methods=['GET'])
+def get_keyword_data(keyword):
+    keyword_data = load_keyword_data(keyword, keyword_output_dir)
+    return jsonify(keyword_data)
 
 if __name__ == '__main__':
     app.run(debug=True)
