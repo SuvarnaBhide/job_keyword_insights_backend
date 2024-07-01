@@ -2,10 +2,10 @@ from flask import Flask, jsonify, abort
 from flask_cors import CORS
 import csv
 import os
+import db
 
 app = Flask(__name__)
 CORS(app)
-
 
 # Load keyword counts from keyword_counts.csv
 def load_keyword_counts(keyword_count_csv):
@@ -35,6 +35,15 @@ keyword_output_dir = "keyword_csvs"
 
 # Load keyword counts once at startup
 keyword_counts = load_keyword_counts(keyword_count_csv)
+
+@app.route('/')
+def flask_mongodb_atlas():
+    return "This is a Python Flask application!"
+
+@app.route("/test")
+def test():
+    db.db.collection.insert_one({"name": "John"})
+    return "Connected to the data base!"
 
 @app.route('/api/keyword_counts', methods=['GET'])
 def get_keyword_counts():
