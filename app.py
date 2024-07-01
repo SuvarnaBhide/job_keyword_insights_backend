@@ -1,4 +1,4 @@
-from flask import Flask, jsonify, abort
+from flask import Flask, jsonify, abort, request
 from flask_cors import CORS
 import csv
 import os
@@ -44,6 +44,12 @@ def flask_mongodb_atlas():
 def test():
     db.db.collection.insert_one({"name": "John"})
     return "Connected to the data base!"
+
+@app.route('/api/add_data', methods=['POST'])
+def add_data():
+    data = request.json
+    result = db.db.collection.insert_one(data)
+    return jsonify({'inserted_id': str(result.inserted_id)}), 201
 
 @app.route('/api/keyword_counts', methods=['GET'])
 def get_keyword_counts():
