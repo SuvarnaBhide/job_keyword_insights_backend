@@ -4,38 +4,10 @@ from datetime import datetime, timezone
 import csv
 import os
 import db
+from keyword_mapping import keyword_counts, load_keyword_data, keyword_output_dir
 
 app = Flask(__name__)
 CORS(app)
-
-# Load keyword counts from keyword_counts.csv
-def load_keyword_counts(keyword_count_csv):
-    keyword_counts = []
-    with open(keyword_count_csv, 'r', encoding='utf-8') as file:
-        reader = csv.DictReader(file)
-        for row in reader:
-            keyword_counts.append(row)
-    return keyword_counts
-
-# Load keyword-specific data from corresponding CSV
-def load_keyword_data(keyword, keyword_output_dir):
-    file_path = os.path.join(keyword_output_dir, f'{keyword}.csv')
-    if not os.path.isfile(file_path):
-        abort(404, description=f"No data found for keyword: {keyword}")
-
-    data = []
-    with open(file_path, 'r', encoding='utf-8') as file:
-        reader = csv.DictReader(file)
-        for row in reader:
-            data.append(row)
-    return data
-
-# Define file paths
-keyword_count_csv = "keyword_counts.csv"
-keyword_output_dir = "keyword_csvs"
-
-# Load keyword counts once at startup
-keyword_counts = load_keyword_counts(keyword_count_csv)
 
 @app.route('/')
 def flask_mongodb_atlas():

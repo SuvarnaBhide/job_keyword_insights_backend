@@ -4,6 +4,7 @@ import csv
 import re
 from collections import Counter
 from string import punctuation
+from flask import abort
 
 # Load SpaCy model
 nlp = spacy.load("en_core_web_sm")
@@ -140,6 +141,35 @@ def process_and_create_csvs(output_csv, keyword_output_dir, keyword_count_csv):
     
     create_keyword_csvs(output_csv, keyword_output_dir)
     create_keyword_count_csv(output_csv, keyword_count_csv)
+
+# Load keyword counts from keyword_counts.csv
+def load_keyword_counts(keyword_count_csv):
+    keyword_counts = []
+    with open(keyword_count_csv, 'r', encoding='utf-8') as file:
+        reader = csv.DictReader(file)
+        for row in reader:
+            keyword_counts.append(row)
+    return keyword_counts
+
+# Load keyword-specific data from corresponding CSV
+def load_keyword_data(keyword, keyword_output_dir):
+    file_path = os.path.join(keyword_output_dir, f'{keyword}.csv')
+    if not os.path.isfile(file_path):
+        abort(404, description=f"No data found for keyword: {keyword}")
+
+    data = []
+    with open(file_path, 'r', encoding='utf-8') as file:
+        reader = csv.DictReader(file)
+        for row in reader:
+            data.append(row)
+    return data
+
+#Define file paths
+keyword_count_csv = "keyword_counts.csv"
+keyword_output_dir = "keyword_csvs"
+
+# Load keyword counts once at startup
+keyword_counts = load_keyword_counts(keyword_count_csv)
 
 # Main function
 if __name__ == '__main__':
