@@ -1,0 +1,6 @@
+Question,CorrectAnswer,Option1,Option2,Option3,Option4
+What is JSX?,A syntax extension for JavaScript,An HTML tag,An array method,An event handler,A syntax extension for JavaScript
+Which hook is used to manage state in a functional component?,useState,useState,useEffect,useContext,useReducer,
+What does `useEffect` do?,Handles side effects in components,Manages local state,Provides context to components,Handles side effects in components,Updates DOM directly
+How do you pass data from a parent component to a child component?,Through props,By using state,Through props,Through context
+What is the purpose of React Router?,To handle routing in React applications,To manage global state,To perform AJAX requests,To style components,To handle routing in React applications
