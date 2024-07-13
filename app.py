@@ -73,7 +73,7 @@ def submit_attempt():
             attempt_id=attempt.id,
             question_id=detail['question_id'],
             option_id=detail['option_id'],
-            content=detail['content']
+            content=','.join(map(str, detail['order']))
         )
         db.session.add(response)
     
@@ -94,7 +94,16 @@ def get_attempts(user_id):
 
     for attempt in attempts:
         responses = Response.query.filter_by(attempt_id=attempt.id).all()
-        response_results = [{'question_id': response.question_id, 'option_id': response.option_id, 'content': response.content} for response in responses]
+        response_results = []
+
+        for response in responses:
+            option_order = response.content.split(',') if response.content else []
+            response_results.append({
+                'question_id': response.question_id,
+                'option_id': response.option_id,
+                'content': response.content,
+                'option_order': option_order  # Include the shuffled order
+            })
         
         # Calculate quizScore
         total_questions = len(attempt.quiz.questions)
