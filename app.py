@@ -80,16 +80,11 @@ def submit_attempt():
     db.session.commit()
     return jsonify({'message': 'Attempt submitted successfully', 'attemptDate': attempt_date}), 201
 
-@app.route('/api/attempts/<int:user_id>', methods=['POST'])
+@app.route('/api/attempts/<int:user_id>', methods=['GET'])
 def get_attempts(user_id):
-    data = request.json
-    quiz_id = data.get('quiz_id')
-
-    if quiz_id is None:
-        return jsonify({"error": "quiz_id is required"}), 400
-
+    
     # Fetch attempts sorted by attemptDate in descending order
-    attempts = Attempt.query.filter_by(user_id=user_id, quiz_id=quiz_id).order_by(Attempt.attemptDate.desc()).all()
+    attempts = Attempt.query.filter_by(user_id=user_id).order_by(Attempt.attemptDate.desc()).all()
     results = []
 
     for attempt in attempts:
