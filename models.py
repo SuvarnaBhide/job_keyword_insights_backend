@@ -1,6 +1,9 @@
 from flask_sqlalchemy import SQLAlchemy
 
+# Define the SQLAlchemy object
 db = SQLAlchemy()
+
+# Define the Quiz, User, Question, MCQOption, Attempt, and Response models
 
 class Quiz(db.Model):
     __tablename__ = 'Quiz'
@@ -41,6 +44,7 @@ class MCQOption(db.Model):
     content = db.Column(db.Text, nullable=False)
     explanation = db.Column(db.String(255))
 
+    # Unique constraint on question_id and option_label
     __table_args__ = (
         db.UniqueConstraint('question_id', 'option_label'),
     )

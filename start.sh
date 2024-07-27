@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Execute otherfile.py
+# Execute keyword_mapping.py
 python keyword_mapping.py
 
 # Start your Flask application with Gunicorn
