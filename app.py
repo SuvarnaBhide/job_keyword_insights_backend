@@ -128,7 +128,7 @@ def get_attempts(user_id):
 
 # Route for the home page
 @app.route('/')
-def flask_mongodb_atlas():
+def flask_app():
     return "This is a Python Flask application!"
 
 # Route for returning keyword counts
