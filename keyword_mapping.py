@@ -22,6 +22,7 @@ def csv_to_list(file_path):
     
     return result_list
 
+# Function to extract job details from Job Descriptions
 def extract_job_details(job_description):
     job_details = {}
 
@@ -34,9 +35,7 @@ def extract_job_details(job_description):
     match = re.search(r'Company:\s*(.*?)\n', job_description)
     if match:
         job_details['Company'] = match.group(1)
-    
-    #print(f'Job Details: {job_details}')
-
+  
     return job_details
 
 # Function to extract keywords using TF-IDF
@@ -45,6 +44,7 @@ def extract_keywords(text):
     pos_tag = ['PROPN', 'ADJ', 'NOUN'] 
     doc = nlp(text.lower()) 
 
+    # Extract tokens with POS tags
     for token in doc:
         if(token.text in nlp.Defaults.stop_words or token.text in punctuation):
             continue
@@ -72,15 +72,14 @@ def process_file(file_path, predefined_keywords):
     
     # Extract the keywords from Job Descriptions
     extracted_keywords = extract_keywords(text)
-    #print('Extracted keywords\n\n\n: ', extracted_keywords)
 
     # Map extracted keywords to predefined keywords
     mapped_keywords = map_keywords(extracted_keywords, predefined_keywords)
 
     return {'job_details': job_details, 'mapped_keywords': mapped_keywords}
 
-# Function to store all files in CSV
-def store_all_files_in_csv(base_path, predefined_keywords, output_csv):
+# Function to store all the Job Descriptions files in CSV
+def store_all_JD_files_in_csv(base_path, predefined_keywords, output_csv):
     with open(output_csv, 'w', newline='', encoding='utf-8') as csv_file:
         writer = csv.writer(csv_file)
         writer.writerow(['Company', 'Job Title', 'Keywords', 'Filename'])  # Write the column headers
@@ -100,6 +99,8 @@ def store_all_files_in_csv(base_path, predefined_keywords, output_csv):
 # Function to read full_stack_developer_mapped_keywords.csv and create separate CSVs for each keyword
 def create_keyword_csvs(mapped_keywords_csv, output_dir):
     keyword_files = {}
+
+    # Read the CSV file and create separate CSVs for each keyword
     with open(mapped_keywords_csv, 'r', encoding='utf-8') as file:
         reader = csv.DictReader(file)
         for row in reader:
@@ -109,6 +110,7 @@ def create_keyword_csvs(mapped_keywords_csv, output_dir):
                     keyword_files[keyword] = []
                 keyword_files[keyword].append([row['Company'], row['Job Title'], row['Filename']])
     
+    # Write to the corresponding CSV files from the dictionary
     for keyword, rows in keyword_files.items():
         with open(os.path.join(output_dir, f'{keyword}.csv'), 'w', newline='', encoding='utf-8') as keyword_file:
             writer = csv.writer(keyword_file)
@@ -117,15 +119,25 @@ def create_keyword_csvs(mapped_keywords_csv, output_dir):
 
 # Function to extract keywords and count occurrences, and write to a CSV
 def create_keyword_count_csv(mapped_keywords_csv, keyword_count_csv):
+
     keyword_counter = Counter()
+
+    # Read the CSV file and count the occurrences of each keyword
     with open(mapped_keywords_csv, 'r', encoding='utf-8') as file:
         reader = csv.DictReader(file)
         for row in reader:
             keywords = row['Keywords'].split(', ')
             keyword_counter.update(keywords)
 
-    # Write the keyword counts to a separate CSV file
-    with open(keyword_count_csv, 'w', newline='', encoding='utf-8') as count_file:
+    # Create 'keywords_count' directory if not already existing
+    if not os.path.exists('keywords_count_csvs'):
+        os.makedirs('keywords_count_csvs')  
+
+    output_dir = 'keywords_count_csvs'
+
+    # Write the keyword counts to the CSV file within the 'keywords_count_csvs' directory
+    keyword_count_csv_path = os.path.join(output_dir, keyword_count_csv)
+    with open(keyword_count_csv_path, 'w', newline='', encoding='utf-8') as count_file:
         count_writer = csv.writer(count_file)
         count_writer.writerow(['Keyword', 'Count'])  # Write the column headers
         
@@ -134,7 +146,7 @@ def create_keyword_count_csv(mapped_keywords_csv, keyword_count_csv):
             count_writer.writerow([keyword, count])
 
 # Function to process and create all required CSVs
-def process_and_create_csvs(output_csv, keyword_output_dir, keyword_count_csv):
+def process_and_create_keyword_csvs(output_csv, keyword_output_dir, keyword_count_csv):
     # Create separate CSVs for each keyword
     if not os.path.exists(keyword_output_dir):
         os.makedirs(keyword_output_dir)
@@ -164,25 +176,22 @@ def load_keyword_data(keyword, keyword_output_dir):
             data.append(row)
     return data
 
-#Define file paths
-keyword_count_csv = "keyword_counts.csv"
+
+# Define file paths
+keywords_filepath = "keywords/full_stack_developer_keywords.csv"
+base_path = "job_descriptions/full_stack_developer_job_descriptions"
+output_csv = "mapped_keywords_csvs/full_stack_developer_mapped_keywords.csv"
+keyword_count_csv = "full_stack_developer_keywords_count.csv"
 keyword_output_dir = "keyword_csvs"
 
-# Load keyword counts once at startup
+predefined_keywords = csv_to_list(keywords_filepath)
+
+# Store data in output_csv
+store_all_JD_files_in_csv(base_path, predefined_keywords, output_csv)
+
+# Process and create all required keyword CSVs
+process_and_create_keyword_csvs(output_csv, keyword_output_dir, keyword_count_csv)
+
+# Load keyword counts
+keyword_count_csv = "keywords_count_csvs/full_stack_developer_keywords_count.csv" # This filepath will only exist after previous functions are executed
 keyword_counts = load_keyword_counts(keyword_count_csv)
-
-# Main function
-if __name__ == '__main__':
-
-    # Define file paths
-    keywords_filepath = "keywords/full_stack_developer_keywords.csv"
-    base_path = "job_descriptions/full_stack_developer_job_descriptions"
-    output_csv = "mapped_keywords_csvs/full_stack_developer_mapped_keywords.csv"
-    keyword_count_csv = "keyword_counts.csv"
-    keyword_output_dir = "keyword_csvs"
-
-    predefined_keywords = csv_to_list(keywords_filepath)
-    store_all_files_in_csv(base_path, predefined_keywords, output_csv)
-    
-    # Process and create all required CSVs
-    process_and_create_csvs(output_csv, keyword_output_dir, keyword_count_csv)
